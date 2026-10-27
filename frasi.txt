@@ -1,0 +1,2000 @@
+Il gatto mangia il topo.
+Il cane mangia l'osso.
+Il cane non miagola.
+Il cane gioca con la palla.
+Il gatto beve il latte.
+Il bambino mangia la mela.
+La bambina beve l'acqua.
+Il gatto dorme sul divano.
+Il cane corre nel giardino.
+Il bambino gioca con il cane.
+La bambina accarezza il gatto.
+Il gatto non abbaia.
+Il cane non miagola.
+Il bambino mangia il pane.
+La bambina mangia la pasta.
+Il gatto salta sul tavolo.
+Il cane dorme sul tappeto.
+Il bambino beve il latte.
+La bambina gioca con la bambola.
+Il gatto mangia la carne.
+Il cane porta il bastone.
+Il bambino corre nel parco.
+La bambina legge un libro.
+Il gatto guarda l'uccello.
+Il cane abbaia forte.
+Il bambino disegna un fiore.
+La bambina canta una canzone.
+Il gatto gioca con il gomitolo.
+Il cane annusa il tappeto.
+Il bambino dorme nel letto.
+La bambina dorme nel letto.
+Il gatto graffia il divano.
+Il cane agita la coda.
+Il bambino ride molto.
+La bambina piange piano.
+Il gatto beve l'acqua.
+Il cane mangia la carne.
+Il bambino guarda la televisione.
+La bambina ascolta la musica.
+Il gatto non mangia il cane.
+Il cane non mangia il gatto.
+Il bambino non dorme di giorno.
+La bambina non corre in casa.
+Il gatto sale sull'albero.
+Il cane scava nel giardino.
+Il bambino gioca con la palla.
+La bambina gioca con il gatto.
+Il gatto miagola la notte.
+Il cane abbaia al postino.
+Il bambino mangia la frutta.
+La bambina mangia la torta.
+Il gatto non beve il succo.
+Il cane non mangia il pane.
+Il bambino porta lo zaino.
+La bambina porta la borsa.
+Il gatto salta dalla sedia.
+Il cane corre verso il bambino.
+Il bambino accarezza il cane.
+La bambina accarezza il gatto.
+Il gatto mangia il pesce.
+Il cane gioca con il bambino.
+Il bambino ha fame.
+La bambina ha sete.
+Il gatto ha freddo.
+Il cane ha caldo.
+Il bambino va a scuola.
+La bambina torna a casa.
+Il gatto resta in casa.
+Il cane resta in giardino.
+Il bambino lava le mani.
+La bambina lava i denti.
+Il gatto lecca la zampa.
+Il cane lecca la zampa.
+Il bambino mangia la minestra.
+La bambina mangia il riso.
+Il gatto non mangia la verdura.
+Il cane non mangia la frutta.
+Il bambino non abbaia.
+La bambina non miagola.
+Il gatto osserva il cane.
+Il cane osserva il gatto.
+Il bambino osserva il cielo.
+La bambina osserva le stelle.
+Il gatto dorme tutto il giorno.
+Il cane dorme la notte.
+Il bambino gioca con il cane.
+La bambina gioca con la palla.
+Il gatto salta sul letto.
+Il cane salta sul divano.
+Il bambino salta sul tappeto.
+La bambina salta in giardino.
+Il gatto non mangia il pane.
+Il cane non sale sull'albero.
+Il bambino non graffia.
+La bambina non abbaia.
+Il gatto beve lentamente.
+Il cane mangia rapidamente.
+Il bambino cammina lentamente.
+La bambina corre rapidamente.
+Il gatto gioca con il cane.
+Il cane gioca con il gatto.
+Il bambino non gioca con il topo.
+La bambina non gioca con il bastone.
+Il gatto mangia il topo la mattina.
+Il cane abbaia la notte.
+Il bambino dorme la notte.
+La bambina dorme la notte.
+Il gatto non dorme la notte.
+Il cane non dorme di giorno.
+Il bambino mangia la frutta la mattina.
+La bambina mangia il pane la mattina.
+Il gatto mangia il pesce la sera.
+Il cane mangia la carne la sera.
+Il bambino beve l'acqua spesso.
+La bambina beve il latte la mattina.
+Il gatto non beve il latte.
+Il cane non beve il succo.
+Il bambino aiuta la bambina.
+La bambina aiuta il bambino.
+Il gatto non aiuta il cane.
+Il cane non aiuta il gatto.
+Il bambino vuole la palla.
+La bambina vuole il libro.
+Il gatto vuole il pesce.
+Il cane vuole l'osso.
+Il bambino non vuole dormire.
+La bambina non vuole mangiare.
+Il gatto non vuole bere.
+Il cane non vuole stare fermo.
+Il bambino vede il cane.
+La bambina vede il gatto.
+Il gatto vede il topo.
+Il cane vede il gatto.
+Il bambino non vede il topo.
+La bambina non vede il topo.
+Il gatto segue il topo.
+Il cane segue il bambino.
+Il bambino segue il cane.
+La bambina segue il gatto.
+Il gatto non segue il cane.
+Il cane non segue il gatto.
+Il gatto è piccolo.
+Il cane è grande.
+Il bambino è piccolo.
+La bambina è grande.
+Il gatto è veloce.
+Il cane è forte.
+Il bambino è stanco.
+La bambina è felice.
+Il gatto non è grande.
+Il cane non è piccolo.
+Il bambino non è triste.
+La bambina non è stanca.
+Il gatto salta alto.
+Il cane corre lontano.
+Il bambino ride forte.
+La bambina piange piano.
+Il gatto non ride.
+Il cane non piange.
+Il bambino parla con la bambina.
+La bambina parla con il bambino.
+Il gatto guarda la televisione.
+Il cane guarda il gatto.
+Il bambino guarda il cane.
+La bambina guarda il cielo.
+Il gatto corre in casa.
+Il cane corre fuori.
+Il bambino corre veloce.
+La bambina corre piano.
+Il gatto mangia da solo.
+Il cane mangia da solo.
+Il bambino mangia con la famiglia.
+La bambina mangia con la famiglia.
+Il gatto non parla.
+Il cane non parla.
+Il bambino parla bene.
+La bambina parla piano.
+Il gatto abbraccia il cane.
+Il cane abbraccia il bambino.
+Il bambino abbraccia il cane.
+La bambina abbraccia il gatto.
+Il gatto non abbraccia il cane.
+Il cane non abbraccia il gatto.
+Il bambino mangia il dolce.
+La bambina mangia la mela.
+Il gatto non mangia la mela.
+Il cane non mangia il dolce.
+Il bambino porta la palla.
+La bambina porta il libro.
+Il gatto porta il topo.
+Il cane porta il bastone.
+Il bambino non porta il bastone.
+La bambina non porta il topo.
+Il gatto dorme vicino al cane.
+Il cane dorme vicino al gatto.
+Il bambino dorme vicino alla bambina.
+La bambina dorme vicino al bambino.
+Il gatto beve il latte la sera.
+Il cane beve l'acqua la mattina.
+Il bambino beve il succo la mattina.
+La bambina beve l'acqua la sera.
+Il gatto non mangia la torta.
+Il cane non mangia la pasta.
+Il bambino non mangia il pesce.
+La bambina non mangia la carne.
+Il gatto dorme sul tappeto.
+Il cane dorme sul divano.
+Il bambino dorme sul letto.
+La bambina dorme sul letto.
+Il gatto gioca da solo.
+Il cane gioca da solo.
+Il bambino gioca da solo.
+La bambina gioca da sola.
+Il gatto vede l'uccello.
+Il cane vede l'uccello.
+Il bambino vede le stelle.
+La bambina vede il cielo.
+Il gatto non vede le stelle.
+Il cane non vede il cielo.
+Il bambino non vede il topo.
+La bambina non vede il topo.
+Il gatto sale sul tavolo.
+Il cane sale sul divano.
+Il bambino sale sul letto.
+La bambina sale sulla sedia.
+Il gatto non sale sul divano.
+Il cane non sale sul tavolo.
+Il bambino non sale sull'albero.
+La bambina non sale sull'albero.
+Il gatto mangia lentamente.
+Il cane mangia lentamente.
+Il bambino mangia rapidamente.
+La bambina mangia lentamente.
+Il gatto corre veloce.
+Il cane corre veloce.
+Il bambino corre lontano.
+La bambina corre lontano.
+Il gatto miagola.
+Il cane abbaia.
+Il gatto non dorme sul tappeto.
+Il cane non dorme sul letto.
+Il bambino non porta la borsa.
+La bambina non porta lo zaino.
+Il gatto graffia il bambino.
+Il cane lecca il bambino.
+Il bambino accarezza la bambina.
+La bambina accarezza il bambino.
+Il gatto non lecca il bambino.
+Il cane non graffia il bambino.
+Il bambino ha caldo.
+La bambina ha freddo.
+Il gatto ha sete.
+Il cane ha fame.
+Il bambino non ha fame.
+La bambina non ha sete.
+Il gatto non ha caldo.
+Il cane non ha freddo.
+Il bambino legge un libro.
+La bambina disegna un fiore.
+Il bambino canta una canzone.
+La bambina ride molto.
+Il gatto osserva il bambino.
+Il cane osserva la bambina.
+Il bambino osserva il gatto.
+La bambina osserva il cane.
+Il gatto non osserva il cielo.
+Il cane non osserva le stelle.
+Il bambino torna a casa la sera.
+La bambina torna a casa la mattina.
+Il gatto resta sul divano tutto il giorno.
+Il cane resta in giardino tutto il giorno.
+Il bambino resta a casa la notte.
+La bambina resta a casa la notte.
+Il gatto non resta in giardino.
+Il cane non resta in casa.
+Il bambino lava i denti la mattina.
+La bambina lava le mani la sera.
+Il gatto lecca la zampa spesso.
+Il cane lecca la zampa spesso.
+Il bambino non lava i denti la sera.
+La bambina non lava le mani la mattina.
+Il gatto porta il pesce.
+Il cane porta la palla.
+Il bambino porta il libro.
+La bambina porta la bambola.
+Il gatto non porta la palla.
+Il cane non porta il pesce.
+Il bambino porta lo zaino a scuola.
+La bambina porta la borsa a scuola.
+Il gatto annusa il cane.
+Il cane annusa il gatto.
+Il bambino annusa il fiore.
+La bambina annusa il fiore.
+Il gatto non annusa il bambino.
+Il cane non annusa la bambina.
+Il bambino segue la bambina.
+La bambina segue il bambino.
+Il gatto segue il bambino.
+Il cane segue la bambina.
+Il gatto non segue la bambina.
+Il cane non segue il bambino.
+Il bambino vuole il dolce.
+La bambina vuole la torta.
+Il gatto vuole il latte.
+Il cane vuole la carne.
+Il bambino non vuole la minestra.
+La bambina non vuole la verdura.
+Il gatto non vuole il pane.
+Il cane non vuole il riso.
+Il bambino vede il fiore.
+La bambina vede il fiore.
+Il gatto vede il gomitolo.
+Il cane vede il bastone.
+Il gatto non vede il bastone.
+Il cane non vede il gomitolo.
+Il bambino aiuta il cane.
+La bambina aiuta il gatto.
+Il gatto aiuta il bambino.
+Il cane aiuta la bambina.
+Il gatto non aiuta la bambina.
+Il cane non aiuta il bambino.
+Il bambino va al parco la mattina.
+La bambina va al parco la sera.
+Il bambino va a scuola la mattina.
+La bambina va a scuola la mattina.
+Il gatto non va a scuola.
+Il cane non va a scuola.
+Il bambino torna a casa la sera.
+La bambina torna a casa la sera.
+Il gatto non torna a casa.
+Il cane non torna a casa.
+Il gatto è felice.
+Il cane è felice.
+Il bambino è grande.
+La bambina è piccola.
+Il gatto non è triste.
+Il cane non è triste.
+Il bambino è lontano.
+La bambina è vicina.
+Il gatto non è vicino al cane.
+Il cane non è vicino al gatto.
+Il gatto mangia il riso.
+Il cane mangia la minestra.
+Il bambino mangia la verdura.
+La bambina mangia il pesce.
+Il gatto non mangia il riso.
+Il cane non mangia la minestra.
+Il bambino non mangia la torta la mattina.
+La bambina non mangia il dolce la mattina.
+Il gatto beve spesso.
+Il cane beve spesso.
+Il bambino beve lentamente.
+La bambina beve rapidamente.
+Il gatto non beve la mattina.
+Il cane non beve la sera.
+Il bambino non beve latte la sera.
+La bambina non beve succo la sera.
+Il gatto corre verso il cane.
+Il cane corre verso il gatto.
+Il bambino corre verso la bambina.
+La bambina corre verso il bambino.
+Il gatto non corre verso il bambino.
+Il cane non corre verso la bambina.
+Il bambino parla da solo.
+La bambina parla da sola.
+Il gatto non parla da solo.
+Il cane non parla da solo.
+Il gatto è stanco.
+Il cane è stanco.
+Il bambino è felice.
+La bambina è triste.
+Il gatto non è stanco.
+Il cane non è felice.
+Il bambino non è stanco.
+La bambina non è felice.
+Il gatto graffia il tappeto.
+Il cane scava in giardino.
+Il bambino disegna le stelle.
+La bambina disegna il fiore.
+Il gatto non graffia il bambino.
+Il cane non scava in casa.
+Il bambino non disegna il topo.
+La bambina non disegna il cane.
+Il gatto guarda il gomitolo.
+Il cane guarda la palla.
+Il bambino guarda il libro.
+La bambina guarda la bambola.
+Il gatto non guarda la bambola.
+Il cane non guarda il libro.
+Il bambino non guarda il gomitolo.
+La bambina non guarda la palla.
+Il bambino parla.
+La bambina canta.
+Il gatto sale sull'albero.
+Il cane scava in giardino.
+Il bambino non abbaia.
+La bambina non miagola.
+Il gatto non scava in giardino.
+Il cane non sale sull'albero.
+Il gatto mangia il topo spesso.
+Il cane abbaia spesso.
+Il bambino ride spesso.
+La bambina piange spesso.
+Il gatto non mangia spesso.
+Il cane non abbaia di giorno.
+Il bambino non piange spesso.
+La bambina non ride spesso.
+Il gatto cammina lentamente.
+Il cane cammina veloce.
+Il bambino cammina verso il parco.
+La bambina cammina verso casa.
+Il gatto non cammina in giardino.
+Il cane non cammina in casa.
+Il bambino cammina da solo.
+La bambina cammina da sola.
+Il gatto dorme vicino al tappeto.
+Il cane dorme vicino alla sedia.
+Il bambino dorme vicino al gatto.
+La bambina dorme vicino al cane.
+Il gatto non dorme vicino al bambino.
+Il cane non dorme vicino alla bambina.
+Il bambino non dorme vicino al tappeto.
+La bambina non dorme vicino alla sedia.
+Il gatto salta verso il bambino.
+Il cane salta verso la bambina.
+Il bambino salta verso il cane.
+La bambina salta verso il gatto.
+Il gatto non salta verso il cane.
+Il cane non salta verso il gatto.
+Il bambino non salta verso la bambina.
+La bambina non salta verso il bambino.
+Il gatto mangia la pasta.
+Il cane mangia il riso.
+Il bambino mangia la torta la sera.
+La bambina mangia il dolce la sera.
+Il gatto non mangia la pasta.
+Il cane non mangia il riso.
+Il bambino mangia la minestra la sera.
+La bambina mangia la minestra la mattina.
+Il gatto miagola spesso.
+Il cane abbaia spesso.
+Il gatto non abbaia mai.
+Il cane non miagola mai.
+Il bambino non canta la notte.
+La bambina non canta la notte.
+Il bambino canta la mattina.
+La bambina canta la sera.
+Il gatto osserva il gomitolo.
+Il cane osserva il bastone.
+Il bambino osserva la bambola.
+La bambina osserva la palla.
+Il gatto non osserva la palla.
+Il cane non osserva la bambola.
+Il bambino non osserva il gomitolo.
+La bambina non osserva il bastone.
+Il gatto vede il cane da lontano.
+Il cane vede il gatto da lontano.
+Il bambino vede la bambina da lontano.
+La bambina vede il bambino da lontano.
+Il gatto non vede il topo da lontano.
+Il cane non vede il topo da lontano.
+Il bambino mangia il pesce la sera.
+La bambina mangia la carne la sera.
+Il gatto non mangia la carne la mattina.
+Il cane non mangia il pesce la mattina.
+Il bambino porta la frutta a scuola.
+La bambina porta il dolce a scuola.
+Il gatto non porta niente.
+Il cane non porta niente.
+Il bambino non porta la torta a scuola.
+La bambina non porta la frutta a scuola.
+Il gatto ha freddo la notte.
+Il cane ha freddo la notte.
+Il bambino ha caldo di giorno.
+La bambina ha caldo di giorno.
+Il gatto non ha caldo la notte.
+Il cane non ha caldo la notte.
+Il bambino non ha freddo di giorno.
+La bambina non ha freddo di giorno.
+Il gatto resta sul letto tutto il giorno.
+Il cane resta sul tappeto tutto il giorno.
+Il bambino resta a scuola di giorno.
+La bambina resta a scuola di giorno.
+Il gatto non resta sul tavolo.
+Il cane non resta sulla sedia.
+Il bambino non resta in giardino la notte.
+La bambina non resta in giardino la notte.
+Il gatto è grande e forte.
+Il cane è piccolo e veloce.
+Il bambino è stanco e triste.
+La bambina è felice e forte.
+Il gatto non è piccolo e lento.
+Il cane non è grande e lento.
+Il bambino non è felice e riposato.
+La bambina non è stanca e triste.
+Il gatto segue il gomitolo.
+Il cane segue il bastone.
+Il bambino segue il libro.
+La bambina segue la bambola.
+Il gatto non segue il bastone.
+Il gatto mangia il topo e poi beve il latte.
+Il cane corre nel giardino e abbaia forte.
+Il bambino mangia la pasta e poi beve l'acqua.
+La bambina legge il libro e ascolta la musica.
+Il gatto dorme sul divano e il cane dorme sul tappeto.
+Il bambino gioca con la palla e il cane corre verso di lui.
+La bambina mangia la torta e poi beve il succo.
+Il gatto sale sull'albero e osserva l'uccello.
+Il cane porta il bastone e agita la coda.
+Il bambino lava le mani e poi mangia il pane.
+La bambina canta una canzone e ride molto.
+Il gatto gioca con il gomitolo e poi dorme sul divano.
+Il cane abbaia al postino e poi resta in giardino.
+Il bambino porta lo zaino e va a scuola la mattina.
+La bambina porta la borsa e torna a casa la sera.
+Il gatto mangia il pesce la sera e poi beve l'acqua.
+Il cane scava in giardino e poi si stanca.
+Il bambino disegna un fiore e poi canta una canzone.
+La bambina gioca con la bambola e poi dorme nel letto.
+Il gatto osserva il cane ma non abbaia.
+Il cane vede il gatto ma non miagola.
+Il bambino ha fame ma non vuole mangiare la verdura.
+La bambina ha sete ma non vuole bere il latte.
+Il gatto è piccolo ma è molto veloce.
+Il cane è grande ma è molto lento.
+Il bambino è stanco ma non vuole dormire.
+La bambina è felice ma piange piano.
+Il gatto mangia il topo perché ha fame.
+Il cane abbaia perché vede il postino.
+Il bambino corre nel parco perché vuole giocare.
+La bambina legge il libro perché vuole imparare.
+Il gatto beve il latte perché ha sete.
+Il cane resta in giardino perché ha caldo.
+Il bambino porta lo zaino perché va a scuola.
+La bambina torna a casa perché ha fame.
+Il gatto che dorme sul divano è piccolo.
+Il cane che abbaia forte è grande.
+Il bambino che va a scuola porta lo zaino.
+La bambina che legge il libro è felice.
+Il gatto mangia il topo e poi sale sull'albero.
+Il cane corre verso il bambino e agita la coda.
+Il bambino lava le mani e poi mangia la minestra.
+La bambina lava i denti e poi dorme nel letto.
+Il gatto graffia il divano e poi dorme sul tappeto.
+Il cane annusa il tappeto e poi si stanca.
+Il bambino guarda la televisione e poi legge un libro.
+La bambina ascolta la musica e poi canta una canzone.
+Il gatto vede l'uccello e salta sull'albero.
+Il cane vede la palla e corre veloce.
+Il bambino vede il cane e ride molto.
+La bambina vede il gatto e lo accarezza.
+Il gatto non mangia la verdura perché non gli piace.
+Il cane non sale sull'albero perché è troppo grande.
+Il bambino non dorme di giorno perché va a scuola.
+La bambina non corre in casa perché è pericoloso.
+Il gatto mangia il pesce e il cane mangia la carne.
+Il bambino beve il latte e la bambina beve il succo.
+Il gatto dorme la notte e il cane dorme di giorno.
+Il bambino va a scuola la mattina e torna a casa la sera.
+Il gatto è piccolo e veloce e il cane è grande e forte.
+Il bambino è stanco e ha fame e vuole dormire.
+La bambina è felice e canta e ride molto.
+Il gatto mangia e poi beve e poi dorme.
+Il cane corre e poi si stanca e poi dorme.
+Il bambino gioca e poi mangia e poi dorme.
+La bambina canta e poi legge e poi dorme.
+Il gatto vuole mangiare il pesce ma non lo trova.
+Il cane vuole giocare con la palla ma non la trova.
+Il bambino vuole dormire ma ha troppa fame.
+La bambina vuole leggere ma ha troppo sonno.
+Il gatto segue il topo e poi lo mangia.
+Il cane segue il bambino e poi gioca con lui.
+Il bambino segue il cane e poi lo accarezza.
+La bambina segue il gatto e poi lo abbraccia.
+Il gatto dorme tutto il giorno perché è stanco.
+Il cane abbaia tutto il giorno perché vede il postino.
+Il bambino gioca tutto il giorno perché non ha scuola.
+La bambina canta tutto il giorno perché è felice.
+Il gatto sale sull'albero e osserva tutto il giardino.
+Il cane corre nel parco e abbaia forte.
+Il bambino corre nel parco e ride molto.
+La bambina cammina nel parco e osserva i fiori.
+Il gatto mangia il topo la mattina e il pesce la sera.
+Il cane mangia la carne la mattina e l'osso la sera.
+Il bambino mangia il pane la mattina e la pasta la sera.
+La bambina mangia la frutta la mattina e la torta la sera.
+Il gatto beve il latte la mattina e l'acqua la sera.
+Il cane beve l'acqua la mattina e la sera.
+Il bambino beve il latte la mattina e il succo la sera.
+La bambina beve il succo la mattina e l'acqua la sera.
+Il gatto non mangia la verdura né il pane.
+Il cane non mangia la frutta né il dolce.
+Il bambino non mangia il pesce né la carne.
+La bambina non mangia il riso né la minestra.
+Il gatto dorme sul divano mentre il cane dorme sul tappeto.
+Il bambino gioca nel parco mentre la bambina legge a casa.
+Il gatto mangia mentre il cane dorme.
+Il cane abbaia mentre il gatto dorme.
+Il bambino ride mentre la bambina piange.
+La bambina canta mentre il bambino dorme.
+Il gatto è piccolo ma mangia molto.
+Il cane è grande ma corre veloce.
+Il bambino è stanco ma gioca ancora.
+La bambina è piccola ma corre forte.
+Il gatto mangia il topo e porta il pesce al bambino.
+Il cane porta il bastone e lo lascia vicino al bambino.
+Il bambino porta la palla e gioca con il cane.
+La bambina porta la bambola e gioca da sola.
+Il gatto graffia il divano quando ha fame.
+Il cane abbaia quando vede il postino.
+Il bambino piange quando ha fame.
+La bambina ride quando gioca con il gatto.
+Il gatto dorme quando non ha fame.
+Il cane corre quando vede la palla.
+Il bambino mangia quando ha fame.
+La bambina beve quando ha sete.
+Il gatto che vive in casa mangia il pesce ogni sera.
+Il cane che vive in giardino abbaia ogni mattina.
+Il bambino che va a scuola porta lo zaino ogni giorno.
+La bambina che resta a casa legge ogni giorno.
+Il gatto mangia il topo velocemente e poi beve il latte.
+Il cane corre velocemente verso il bambino e salta.
+Il bambino cammina lentamente verso casa e poi mangia.
+La bambina torna lentamente a casa e poi dorme.
+Il gatto osserva l'uccello sull'albero e non si muove.
+Il cane vede la palla in giardino e corre verso di essa.
+Il bambino vede il cane nel parco e ride.
+La bambina vede il gatto sul divano e lo accarezza.
+Il gatto mangia il pesce che il bambino porta a casa.
+Il cane gioca con la palla che la bambina porta in giardino.
+Il bambino accarezza il gatto che dorme sul divano.
+La bambina abbraccia il cane che agita la coda.
+Il gatto è stanco perché ha mangiato molto.
+Il cane è felice perché gioca con la palla.
+Il bambino è triste perché non vuole andare a scuola.
+La bambina è felice perché legge il suo libro preferito.
+Il gatto dorme sul divano e il bambino lo osserva.
+Il cane corre in giardino e la bambina lo segue.
+Il bambino mangia la pasta e il gatto lo osserva.
+La bambina legge il libro e il cane dorme vicino a lei.
+Il gatto non vuole bere il latte questa mattina.
+Il cane non vuole mangiare la carne questa sera.
+Il bambino non vuole andare a letto questa notte.
+La bambina non vuole mangiare la verdura a mezzogiorno.
+Il gatto sale sull'albero e non riesce a scendere.
+Il cane porta il bastone ma non lo lascia andare.
+Il bambino porta lo zaino ma non vuole andare a scuola.
+La bambina porta la borsa ma non vuole uscire.
+Il gatto mangia lentamente perché non ha molta fame.
+Il cane corre velocemente perché vede il gatto.
+Il bambino cammina lentamente perché è molto stanco.
+La bambina corre velocemente perché è in ritardo.
+Il gatto osserva il topo e poi salta velocemente.
+Il cane vede l'uccello e abbaia forte.
+Il bambino vede il fiore e lo disegna.
+La bambina vede le stelle e le osserva a lungo.
+Il gatto mangia il topo ogni mattina e il pesce ogni sera.
+Il cane abbaia ogni mattina e dorme ogni pomeriggio.
+Il bambino va a scuola ogni mattina e gioca ogni sera.
+La bambina legge ogni sera e dorme ogni notte.
+Il gatto non vuole dormire sul tappeto perché è freddo.
+Il cane non vuole restare in casa perché ha caldo.
+Il bambino non vuole mangiare il riso perché non gli piace.
+La bambina non vuole bere il latte perché ha già bevuto.
+Il gatto vede il topo e lo segue in silenzio.
+Il cane vede il gatto e abbaia forte.
+Il bambino vede la bambina e le sorride.
+La bambina vede il bambino e lo saluta.
+Il gatto mangia il pesce e poi lecca la zampa.
+Il cane mangia l'osso e poi agita la coda.
+Il bambino mangia la torta e poi beve l'acqua.
+La bambina mangia la mela e poi beve il succo.
+Il gatto dorme sul divano tutto il pomeriggio.
+Il cane resta in giardino tutto il pomeriggio.
+Il bambino gioca nel parco tutto il pomeriggio.
+La bambina legge in casa tutto il pomeriggio.
+Il gatto non vuole uscire di casa perché ha freddo.
+Il cane non vuole restare in casa perché vuole giocare.
+Il bambino non vuole restare a casa perché vuole giocare.
+La bambina non vuole uscire perché vuole leggere.
+Il gatto mangia e dorme e gioca tutto il giorno.
+Il cane abbaia e corre e gioca tutto il giorno.
+Il bambino studia e gioca e mangia tutto il giorno.
+La bambina legge e canta e dorme tutto il giorno.
+Il gatto che ha fame mangia il topo rapidamente.
+Il cane che ha sete beve l'acqua lentamente.
+Il bambino che è stanco dorme tutto il pomeriggio.
+La bambina che è felice canta tutto il giorno.
+Il gatto graffia il divano perché vuole giocare.
+Il cane scava in giardino perché vuole trovare l'osso.
+Il bambino disegna un fiore perché vuole regalarlo.
+La bambina canta una canzone perché è felice.
+Il gatto salta sul tavolo e poi sul divano.
+Il cane corre in giardino e poi torna in casa.
+Il bambino corre nel parco e poi torna a casa.
+La bambina cammina in giardino e poi torna in casa.
+Il gatto non mangia mai la verdura.
+Il cane non sale mai sull'albero.
+Il bambino non piange mai a scuola.
+La bambina non abbaia mai.
+Il gatto dorme spesso sul divano ma a volte sul letto.
+Il cane abbaia spesso ma a volte è silenzioso.
+Il bambino mangia spesso la pasta ma a volte mangia il riso.
+La bambina legge spesso ma a volte ascolta la musica.
+Il gatto vede il topo e lo segue fino all'albero.
+Il cane corre verso la palla e la porta al bambino.
+Il bambino porta il libro a scuola e lo legge in classe.
+La bambina porta la bambola a casa e gioca con essa.
+Il gatto mangia il pesce che la bambina ha portato.
+Il cane abbaia al postino che bussa alla porta.
+Il bambino gioca con il cane che agita la coda.
+La bambina accarezza il gatto che dorme sul divano.
+Il gatto non mangia il pane perché preferisce il pesce.
+Il cane non mangia la frutta perché preferisce la carne.
+Il bambino non beve il succo perché preferisce il latte.
+La bambina non mangia la minestra perché preferisce la pasta.
+Il gatto è piccolo ma ha molta fame ogni sera.
+Il cane è grande ma ha molta sete ogni mattina.
+Il bambino è stanco ma vuole giocare ancora un poco.
+La bambina è felice ma vuole anche dormire un poco.
+Il gatto osserva il topo e aspetta il momento giusto.
+Il cane aspetta il bambino vicino alla porta di casa.
+Il bambino aspetta la bambina vicino alla scuola.
+La bambina aspetta il bambino vicino al parco.
+Il gatto sale sull'albero mentre il cane abbaia in giardino.
+Il cane corre nel parco mentre il gatto dorme in casa.
+Il bambino va a scuola mentre la bambina resta a casa.
+La bambina legge in casa mentre il bambino gioca fuori.
+Il gatto mangia il topo e poi si lecca la zampa lentamente.
+Il cane porta il bastone al bambino e poi agita la coda felice.
+Il bambino lava le mani e poi si siede a tavola per mangiare.
+La bambina lava i denti e poi va a dormire nel letto.
+Il gatto non abbaia mai perché è un gatto.
+Il cane non miagola mai perché è un cane.
+Il bambino non graffia mai perché non è un gatto.
+La bambina non abbaia mai perché non è un cane.
+Il gatto mangia il pesce velocemente perché ha molta fame.
+Il cane beve l'acqua lentamente perché non ha molta sete.
+Il bambino cammina lentamente perché porta uno zaino pesante.
+La bambina corre velocemente perché è in ritardo per la scuola.
+Il gatto dorme sul divano perché è il posto più caldo della casa.
+Il cane resta in giardino perché preferisce stare all'aperto.
+Il bambino va al parco perché vuole giocare con gli amici.
+La bambina resta a casa perché vuole leggere il suo libro.
+Il gatto vede l'uccello sull'albero e inizia a salire lentamente.
+Il cane vede la palla in giardino e corre verso di essa velocemente.
+Il bambino vede il cane nel parco e corre verso di lui felice.
+La bambina vede il gatto sul divano e si siede vicino a lui.
+Il gatto mangia il topo la mattina e poi dorme tutto il pomeriggio.
+Il cane abbaia la mattina e poi si stanca e dorme il pomeriggio.
+Il bambino va a scuola la mattina e gioca nel parco il pomeriggio.
+La bambina legge la mattina e ascolta la musica il pomeriggio.
+Il gatto ha freddo la notte e si avvicina al bambino per scaldarsi.
+Il cane ha caldo di giorno e cerca l'ombra in giardino.
+Il bambino ha fame a mezzogiorno e mangia la pasta con la famiglia.
+La bambina ha sete la sera e beve un bicchiere di acqua.
+Il gatto non vuole scendere dall'albero perché ha paura.
+Il cane non vuole entrare in casa perché vuole restare in giardino.
+Il bambino non vuole andare a dormire perché vuole giocare ancora.
+La bambina non vuole smettere di leggere perché il libro è bello.
+Il gatto sale sull'albero e osserva il giardino dall'alto.
+Il cane scava in giardino e trova un osso vecchio.
+Il bambino disegna un fiore grande e colorato.
+La bambina canta una canzone lunga e bella.
+Il gatto mangia il pesce ogni sera e il topo ogni mattina.
+Il cane beve l'acqua ogni mattina e ogni sera.
+Il bambino mangia il pane ogni mattina e la pasta ogni sera.
+La bambina beve il latte ogni mattina e il succo ogni sera.
+Il gatto graffia il divano quando è annoiato.
+Il cane abbaia quando sente un rumore in giardino.
+Il bambino piange quando è molto stanco e ha fame.
+La bambina ride quando gioca con il gatto e il cane.
+Il gatto si siede vicino al bambino e aspetta il pesce.
+Il cane si siede vicino alla bambina e aspetta la palla.
+Il bambino si siede vicino al cane e lo accarezza a lungo.
+La bambina si siede vicino al gatto e lo abbraccia forte.
+Il gatto mangia poco la mattina ma mangia molto la sera.
+Il cane beve poco la sera ma beve molto la mattina.
+Il bambino studia poco la sera ma studia molto la mattina.
+La bambina dorme poco la notte ma dorme molto il pomeriggio.
+Il gatto segue il topo in tutto il giardino senza fermarsi.
+Il cane corre dietro alla palla senza mai stancarsi.
+Il bambino gioca con il cane tutto il pomeriggio senza fermarsi.
+La bambina legge il libro tutto il giorno senza fermarsi.
+Il gatto mangia il pesce che il bambino porta ogni sera.
+Il cane gioca con la palla che la bambina porta ogni giorno.
+Il bambino porta il libro a scuola ogni mattina.
+La bambina porta la bambola ovunque va.
+Il gatto è piccolo e veloce e mangia molto ogni giorno.
+Il cane è grande e forte e abbaia molto ogni giorno.
+Il bambino è piccolo ma porta uno zaino molto grande.
+La bambina è grande ma porta una borsa molto piccola.
+Il gatto non mangia la verdura né la frutta né il pane.
+Il cane non mangia il dolce né la torta né la frutta.
+Il bambino non beve né il latte né il succo la sera.
+La bambina non mangia né la carne né il pesce a mezzogiorno.
+Il gatto dorme sul divano quando il bambino non è in casa.
+Il cane abbaia in giardino quando il bambino è a scuola.
+Il bambino gioca con il cane quando torna da scuola.
+La bambina accarezza il gatto quando torna a casa.
+Il gatto sale sull'albero e poi non riesce a scendere da solo.
+Il cane porta il bastone al bambino e poi aspetta che lo lanci.
+Il bambino lancia la palla lontano e il cane corre a prenderla.
+La bambina apre il libro e inizia a leggere lentamente.
+Il gatto mangia il topo in silenzio senza fare rumore.
+Il cane abbaia forte quando sente un rumore fuori dalla porta.
+Il bambino parla piano quando la bambina dorme.
+La bambina canta piano quando il bambino studia.
+Il gatto beve il latte ogni mattina prima di uscire in giardino.
+Il cane mangia la carne ogni sera prima di dormire sul tappeto.
+Il bambino mangia il pane ogni mattina prima di andare a scuola.
+La bambina beve il succo ogni sera prima di andare a dormire.
+Il gatto osserva il bambino che mangia e aspetta il suo turno.
+Il cane osserva la bambina che gioca e vuole giocare anche lui.
+Il bambino osserva il gatto che sale sull'albero e ride.
+La bambina osserva il cane che corre in giardino e lo chiama.
+Il gatto è piccolo ma occupa tutto il divano quando dorme.
+Il cane è grande ma riesce a stare fermo vicino al bambino.
+Il bambino è piccolo ma mangia molta pasta ogni sera.
+La bambina è grande ma ha ancora bisogno di dormire molto.
+Il gatto mangia e poi dorme e non si muove per ore.
+Il cane gioca e poi mangia e poi dorme tutta la notte.
+Il bambino studia e poi gioca e poi mangia con la famiglia.
+La bambina mangia e poi canta e poi legge nel letto.
+Il gatto vede il topo vicino all'albero e si avvicina piano piano.
+Il cane sente un rumore in giardino e corre verso il cancello.
+Il bambino sente la bambina cantare e si avvicina per ascoltare.
+La bambina sente il cane abbaiare e va a vedere in giardino.
+Il gatto non esce di casa quando fa freddo la notte.
+Il cane non rientra in casa quando fa caldo di giorno.
+Il bambino non va al parco quando piove e resta a casa.
+La bambina non resta a casa quando il sole splende nel parco.
+Il gatto porta il topo al bambino come regalo.
+Il cane porta il bastone al bambino ogni volta che lo vede.
+Il bambino porta la frutta alla bambina ogni mattina.
+La bambina porta il libro al bambino ogni pomeriggio.
+Il gatto mangia il pesce e poi si stende sul divano caldo.
+Il cane mangia la carne e poi corre in giardino felice.
+Il bambino mangia la pasta e poi va a giocare nel parco.
+La bambina mangia la torta e poi legge il suo libro preferito.
+Il gatto dorme vicino al cane e i due si scaldano a vicenda.
+Il cane dorme vicino al gatto senza abbaiare tutta la notte.
+Il bambino dorme vicino alla bambina e i due sono tranquilli.
+La bambina dorme vicino al bambino tenendolo per mano.
+Il gatto è felice quando mangia il pesce e si lecca la zampa.
+Il cane è felice quando gioca con la palla nel giardino.
+Il bambino è felice quando gioca con il cane nel parco.
+La bambina è felice quando legge il suo libro preferito.
+Il gatto non è felice quando non mangia il pesce la sera.
+Il cane non è felice quando non può giocare in giardino.
+Il bambino non è felice quando deve andare a scuola di mattina.
+La bambina non è felice quando non trova il suo libro preferito.
+Il gatto guarda l'uccello sull'albero e vuole salire ma ha paura.
+Il cane guarda la palla lontana e vuole correrci ma è stanco.
+Il bambino guarda il cane giocare e vuole giocare anche lui.
+La bambina guarda il gatto dormire e vuole accarezzarlo piano.
+Il gatto sale sull'albero ogni giorno per osservare il giardino.
+Il cane corre nel parco ogni pomeriggio con il bambino.
+Il bambino va al parco ogni pomeriggio con il cane.
+La bambina va in biblioteca ogni settimana per prendere un libro.
+Il gatto mangia il topo e poi porta l'osso al cane.
+Il cane porta la palla al bambino e poi abbaia per giocare.
+Il bambino porta il succo alla bambina e poi si siede vicino.
+La bambina porta il libro al bambino e poi lo aiuta a leggere.
+Il gatto è piccolo ma riesce a salire sull'albero più alto.
+Il cane è grande ma riesce a stare fermo quando il bambino dorme.
+Il bambino è piccolo ma riesce a portare lo zaino ogni giorno.
+La bambina è grande ma riesce ancora a giocare con la bambola.
+Il gatto non vuole scendere dall'albero né tornare in casa.
+Il cane non vuole smettere di giocare né tornare dentro.
+Il bambino non vuole smettere di giocare né andare a dormire.
+La bambina non vuole smettere di leggere né andare a dormire.
+Il gatto aspetta vicino alla porta quando ha fame e vuole mangiare.
+Il cane aspetta vicino al cancello quando vuole uscire in giardino.
+Il bambino aspetta vicino alla scuola quando aspetta la bambina.
+La bambina aspetta vicino al parco quando aspetta il bambino.
+Il gatto osserva il bambino mangiare e poi chiede il suo pesce.
+Il cane segue la bambina in giardino e poi abbaia per giocare.
+Il bambino chiama il cane nel parco e il cane corre verso di lui.
+La bambina chiama il gatto in casa e il gatto salta sul divano.
+Il gatto mangia il pesce lentamente e poi beve l'acqua in silenzio.
+Il cane mangia l'osso velocemente e poi abbaia per averne un altro.
+Il bambino mangia la pasta lentamente e poi beve il succo.
+La bambina mangia la frutta velocemente e poi corre a giocare.
+Il gatto non ha paura del bambino ma ha paura del cane.
+Il cane non ha paura della bambina ma ha paura del gatto grande.
+Il bambino non ha paura del gatto ma ha paura del cane che abbaia.
+La bambina non ha paura del cane ma ha paura del topo.
+Il gatto dorme sul posto più caldo della casa ogni notte.
+Il cane dorme nel posto più fresco del giardino ogni notte.
+Il bambino dorme nel suo letto ogni notte dopo aver mangiato.
+La bambina dorme nel suo letto ogni notte dopo aver letto.
+Il gatto mangia il pesce ogni sera mentre il cane dorme in giardino.
+Il cane abbaia ogni mattina mentre il gatto dorme sul divano.
+Il bambino va a scuola ogni mattina mentre la bambina resta a casa.
+La bambina legge ogni pomeriggio mentre il bambino gioca fuori.
+Il gatto segue il topo fino all'albero e poi lo aspetta in silenzio.
+Il cane porta il bastone al bambino ogni volta che questi lo lancia.
+Il bambino gioca con la palla nel parco e il cane corre con lui.
+La bambina canta una canzone mentre il bambino disegna un fiore.
+Il gatto mangia il topo e poi si stende al sole in giardino.
+Il cane abbaia al postino ogni mattina senza mai smettere.
+Il bambino porta lo zaino a scuola e la bambina porta la borsa.
+La bambina legge il libro ogni sera prima di andare a dormire.
+Il gatto non esce mai di notte perché ha paura del buio.
+Il cane non rientra mai presto perché ama stare in giardino.
+Il bambino non mangia mai la verdura perché non gli piace.
+La bambina non salta mai sul letto perché sa che è pericoloso.
+Il gatto osserva l'uccello sull'albero ogni mattina dalla finestra.
+Il cane scava in giardino ogni pomeriggio cercando qualcosa.
+Il bambino disegna ogni giorno e diventa sempre più bravo.
+La bambina canta ogni giorno e la sua voce è molto bella.
+Il gatto vuole mangiare il pesce ma il bambino non gliene dà.
+Il cane vuole giocare con la palla ma la bambina non la trova.
+Il bambino vuole restare nel parco ma deve tornare a casa.
+La bambina vuole continuare a leggere ma deve andare a dormire.
+Il gatto si siede vicino al fuoco perché ha freddo la notte.
+Il cane si siede vicino al cancello perché vuole uscire in giardino.
+Il bambino si siede vicino alla finestra e guarda il giardino.
+La bambina si siede vicino al gatto e lo accarezza piano piano.
+Il gatto mangia il pesce che il bambino porta ogni sera a casa.
+Il cane abbaia quando sente il postino arrivare alla porta.
+Il bambino ride quando il cane agita la coda e salta.
+La bambina piange quando non trova il suo libro preferito.
+Il gatto graffia il divano quando è annoiato e vuole giocare.
+Il cane abbaia forte quando sente un rumore in giardino la notte.
+Il bambino studia a scuola la mattina e gioca nel parco il pomeriggio.
+La bambina legge in casa il pomeriggio e ascolta la musica la sera.
+Il gatto mangia lentamente perché vuole assaporare ogni boccone.
+Il cane corre velocemente perché vuole prendere la palla prima degli altri.
+Il bambino cammina lentamente verso casa perché è molto stanco.
+La bambina torna a casa velocemente perché ha molta fame.
+Il gatto non vuole mangiare il riso perché preferisce il pesce fresco.
+Il cane non vuole stare fermo perché ha troppa energia.
+Il bambino non vuole andare a letto perché vuole ancora giocare.
+La bambina non vuole smettere di cantare perché si diverte molto.
+Il gatto dorme tutto il pomeriggio e poi mangia la sera.
+Il cane gioca tutto il mattino e poi dorme il pomeriggio.
+Il bambino studia tutta la mattina e poi gioca tutto il pomeriggio.
+La bambina legge tutto il pomeriggio e poi canta tutta la sera.
+Il gatto salta sul tavolo e poi sul divano e poi sul letto.
+Il cane corre dal giardino alla casa e poi torna in giardino.
+Il bambino corre dal parco a casa e poi torna al parco.
+La bambina cammina dalla casa al parco e poi torna a casa.
+Il gatto vede il topo e lo segue in silenzio senza fare rumore.
+Il cane vede la palla e corre verso di essa più veloce che può.
+Il bambino vede il cane correre e ride molto felice.
+La bambina vede il gatto saltare e si avvicina per accarezzarlo.
+Il gatto mangia il pesce la sera e il topo la mattina ogni giorno.
+Il cane gioca con la palla la mattina e dorme il pomeriggio.
+Il bambino va a scuola la mattina e fa i compiti il pomeriggio.
+La bambina legge il pomeriggio e ascolta la musica la sera.
+Il gatto porta il topo al bambino e lo lascia vicino alla porta.
+Il cane porta la palla alla bambina e aspetta che lei la lanci.
+Il bambino porta il libro alla bambina e glielo lascia sul tavolo.
+La bambina porta il succo al bambino e lo mette vicino al suo zaino.
+Il gatto è piccolo e veloce e riesce a salire sull'albero in pochi secondi.
+Il cane è grande e forte e riesce a portare il bastone senza difficoltà.
+Il bambino è stanco ma riesce comunque a fare i compiti ogni sera.
+La bambina è felice e canta e ride per tutta la giornata.
+Il gatto osserva il bambino che mangia e aspetta vicino alla sedia.
+Il cane segue la bambina in giardino e abbaia quando lei si allontana.
+Il bambino accarezza il gatto che dorme sul divano molto piano.
+La bambina abbraccia il cane che agita la coda felice di vederla.
+Il gatto mangia il pesce che il bambino porta ogni sera con sé.
+Il cane abbaia al postino che arriva ogni mattina con le lettere.
+Il bambino gioca con il cane che agita la coda nel parco.
+La bambina accarezza il gatto che dorme sul divano caldo.
+Il gatto beve il latte ogni mattina prima che il bambino si svegli.
+Il cane mangia la carne ogni sera prima che la bambina vada a letto.
+Il bambino mangia il pane ogni mattina prima di andare a scuola.
+La bambina beve il latte ogni mattina prima di aprire il libro.
+Il gatto non vuole uscire la notte perché fa troppo freddo fuori.
+Il cane non vuole rientrare di giorno perché fa troppo caldo dentro.
+Il bambino non vuole mangiare la verdura né a pranzo né a cena.
+La bambina non vuole dormire né il pomeriggio né la notte presto.
+Il gatto si stende al sole in giardino e dorme beato per ore.
+Il cane corre nel parco con il bambino finché non è troppo stanco.
+Il bambino gioca con il cane finché non è ora di tornare a casa.
+La bambina legge il libro finché non è ora di andare a dormire.
+Il gatto mangia velocemente e poi corre a nascondersi sotto il letto.
+Il cane mangia lentamente e poi va a sdraiarsi sul tappeto caldo.
+Il bambino mangia in fretta perché vuole tornare subito a giocare.
+La bambina mangia piano perché vuole gustare ogni boccone della torta.
+Il gatto dorme vicino al cane e i due sembrano grandi amici.
+Il cane dorme vicino al gatto come se fossero sempre stati amici.
+Il bambino dorme vicino alla bambina e i due si svegliano insieme.
+La bambina dorme vicino al bambino e lo veglia tutta la notte.
+Il gatto è felice ogni volta che mangia il pesce fresco la sera.
+Il cane è felice ogni volta che gioca con la palla in giardino.
+Il bambino è felice ogni volta che il cane corre verso di lui.
+La bambina è felice ogni volta che trova un libro nuovo da leggere.
+Il gatto segue il topo per tutto il giardino senza mai perderlo di vista.
+Il cane segue il bambino ovunque vada senza mai allontanarsi troppo.
+Il bambino segue il cane nel parco e ride quando questo salta.
+La bambina segue il gatto in casa e lo accarezza ogni volta che può.
+Il gatto mangia il topo la mattina e poi aspetta il pesce la sera.
+Il cane abbaia la mattina e poi dorme tranquillo tutto il pomeriggio.
+Il bambino va a scuola la mattina e poi gioca nel parco la sera.
+La bambina legge la mattina e poi canta e balla tutta la sera.
+Il gatto mangia il pesce mentre il bambino lo osserva seduto sul divano.
+Il cane abbaia forte mentre la bambina cerca di leggere il suo libro.
+Il bambino mangia la pasta mentre il gatto gli gira intorno alla sedia.
+La bambina beve il succo mentre il cane aspetta vicino alla porta.
+Il gatto è più piccolo del cane ma è molto più veloce.
+Il cane è più grande del gatto ma è molto più lento.
+Il bambino è più alto della bambina ma lei è più veloce.
+La bambina è più brava del bambino a leggere ma lui è più bravo a correre.
+Il gatto mangia più pesce che carne ogni giorno.
+Il cane beve più acqua che latte ogni giorno.
+Il bambino mangia più pasta che riso ogni settimana.
+La bambina legge più libri che fumetti ogni mese.
+Il gatto dorme più di giorno che di notte.
+Il cane abbaia più la mattina che la sera.
+Il bambino gioca più nel parco che in casa.
+La bambina studia più la mattina che il pomeriggio.
+Il gatto si avvicina al bambino e gli chiede il pesce con gli occhi.
+Il cane si avvicina alla bambina e agita la coda per farsi accarezzare.
+Il bambino si avvicina al gatto e gli offre un pezzo di carne.
+La bambina si avvicina al cane e gli lancia la palla lontano.
+Il gatto che dorme sul divano si sveglia quando sente il rumore del cibo.
+Il cane che dorme sul tappeto si sveglia quando sente il bambino arrivare.
+Il bambino che dorme nel letto si sveglia quando sente la bambina cantare.
+La bambina che dorme nel letto si sveglia quando sente il cane abbaiare.
+Il gatto non vuole mangiare il cibo che il bambino gli porta stamattina.
+Il cane non vuole stare fermo mentre la bambina cerca di accarezzarlo.
+Il bambino non vuole andare a dormire anche se ha molto sonno.
+La bambina non vuole smettere di cantare anche se è tardi.
+Il gatto mangia il pesce che gli piace di più e lascia il resto.
+Il cane porta il bastone che il bambino ha lanciato lontano nel parco.
+Il bambino prende il libro che la bambina gli ha lasciato sul tavolo.
+La bambina prende la bambola che il bambino ha messo vicino alla porta.
+Il gatto si stende sul divano e chiude gli occhi lentamente.
+Il cane si siede in giardino e guarda le stelle per molto tempo.
+Il bambino si siede sul tappeto e disegna un fiore grande e colorato.
+La bambina si siede vicino alla finestra e guarda la pioggia cadere.
+Il gatto preferisce dormire sul divano piuttosto che sul tappeto.
+Il cane preferisce stare in giardino piuttosto che restare in casa.
+Il bambino preferisce giocare fuori piuttosto che stare in casa.
+La bambina preferisce leggere in casa piuttosto che uscire nel parco.
+Il gatto mangia il pesce ogni sera e sembra sempre più felice.
+Il cane corre nel parco ogni giorno e diventa sempre più veloce.
+Il bambino studia ogni mattina e diventa sempre più bravo a scuola.
+La bambina legge ogni sera e diventa sempre più brava a leggere.
+Il gatto non sa dove ha messo il topo che ha preso stamattina.
+Il cane non sa dove è andata la palla che stava portando al bambino.
+Il bambino non sa dove ha messo il libro che la bambina gli ha dato.
+La bambina non sa dove è andato il gatto che stava accarezzando.
+Il gatto mangia il topo e poi si lecca le zampe con cura.
+Il cane porta il bastone e poi lo lascia cadere ai piedi del bambino.
+Il bambino prende la palla e poi la lancia lontano per il cane.
+La bambina prende il libro e poi si siede comoda sul divano per leggere.
+Il gatto dorme così tanto che il bambino pensa che sia sempre stanco.
+Il cane abbaia così forte che la bambina non riesce a leggere.
+Il bambino mangia così in fretta che la bambina non riesce a starlo dietro.
+La bambina canta così bene che il bambino si ferma ad ascoltarla.
+Il gatto è sveglio la notte e dorme di giorno come se fosse al contrario.
+Il cane dorme la notte e gioca di giorno come tutti gli altri cani.
+Il bambino dorme la notte e studia di giorno come tutti i bambini.
+La bambina dorme la notte e legge di giorno come le piace fare.
+Il gatto mangia il pesce che il bambino porta e poi gli fa le fusa.
+Il cane gioca con la palla che la bambina lancia e poi gliela riporta.
+Il bambino mangia il dolce che la bambina ha fatto e poi la ringrazia.
+La bambina legge il libro che il bambino le ha regalato e poi lo abbraccia.
+Il gatto si stende al sole e non si muove per tutto il pomeriggio.
+Il cane corre nel parco senza fermarsi mai fino a quando non è buio.
+Il bambino gioca nel parco senza fermarsi mai finché non ha fame.
+La bambina legge sul divano senza alzarsi mai finché non è ora di cena.
+Il gatto ha paura del cane grande che abbaia forte in giardino.
+Il cane ha paura del gatto che lo graffia quando si avvicina troppo.
+Il bambino ha paura del buio e lascia la luce accesa la notte.
+La bambina ha paura dei topi e salta sulla sedia quando ne vede uno.
+Il gatto non ha paura di niente tranne che del cane grande.
+Il cane non ha paura di niente tranne che del gatto che graffia.
+Il bambino non ha paura di niente tranne che del buio la notte.
+La bambina non ha paura di niente tranne che dei topi.
+Il gatto segue il bambino ovunque vada in casa come se fosse il suo padrone.
+Il cane segue la bambina ovunque vada nel parco senza mai allontanarsi.
+Il bambino segue il cane nel parco e ride ogni volta che questo salta.
+La bambina segue il gatto in casa e lo chiama ogni volta che scompare.
+Il gatto mangia e poi dorme e non si sveglia fino alla sera.
+Il cane gioca e poi abbaia e poi si stanca e dorme sul tappeto.
+Il bambino studia e poi gioca e poi mangia e poi va a dormire.
+La bambina mangia e poi canta e poi legge e poi chiude gli occhi.
+Il gatto vuole uscire ma la porta è chiusa e non riesce ad aprirla.
+Il cane vuole entrare ma il cancello è chiuso e aspetta che qualcuno apra.
+Il bambino vuole giocare ma la bambina vuole leggere e i due non si mettono d'accordo.
+La bambina vuole cantare ma il bambino vuole dormire e lei canta piano.
+Il gatto si avvicina al cibo lentamente come se avesse paura che sparisse.
+Il cane corre verso la palla velocemente come se fosse la cosa più importante.
+Il bambino cammina verso scuola lentamente come se non volesse arrivarci.
+La bambina torna a casa velocemente come se non vedesse l'ora di leggere.
+Il gatto dorme sul divano e il bambino si siede vicino a lui senza svegliarlo.
+Il cane dorme sul tappeto e la bambina gli si siede accanto senza farlo abbaiare.
+Il bambino dorme nel letto e il gatto si stende ai suoi piedi senza svegliarlo.
+La bambina dorme nel letto e il cane si siede vicino alla porta senza fare rumore.
+Il gatto mangia il pesce lentamente assaporando ogni boccone con cura.
+Il cane mangia la carne velocemente senza lasciare nemmeno un pezzetto.
+Il bambino mangia la pasta lentamente perché non gli piace molta.
+La bambina mangia la torta velocemente perché è la sua preferita.
+Il gatto graffia la porta quando vuole uscire e nessuno lo sente.
+Il cane abbaia al cancello quando vuole entrare e tutti lo sentono.
+Il bambino bussa alla porta quando torna da scuola e la bambina apre.
+La bambina bussa alla porta quando torna dal parco e il bambino apre.
+Il gatto che vive con il bambino mangia sempre il pesce fresco ogni sera.
+Il cane che vive con la bambina gioca sempre con la palla ogni mattina.
+Il bambino che va a scuola ogni mattina porta sempre lo zaino pesante.
+La bambina che resta a casa ogni giorno legge sempre un libro nuovo.
+Il gatto non esce mai quando piove perché odia bagnarsi.
+Il cane esce sempre anche quando piove perché ama stare all'aperto.
+Il bambino non esce quando piove e resta a casa a disegnare.
+La bambina non esce quando piove e resta a casa a leggere e cantare.
+Il gatto osserva il topo da lontano e aspetta il momento giusto per saltare.
+Il cane osserva la palla da lontano e aspetta che il bambino la lanci.
+Il bambino osserva il cane da lontano e aspetta che si avvicini per accarezzarlo.
+La bambina osserva il gatto da lontano e aspetta che si svegli per abbracciarlo.
+Il gatto si sveglia la notte e cammina per la casa senza fare rumore.
+Il cane si sveglia la mattina e abbaia subito per uscire in giardino.
+Il bambino si sveglia la mattina e mangia prima di andare a scuola.
+La bambina si sveglia la mattina e beve il latte prima di aprire il libro.
+Il gatto ama il pesce più di qualsiasi altra cosa al mondo.
+Il cane ama la palla più di qualsiasi altro gioco nel parco.
+Il bambino ama giocare con il cane più di qualsiasi altra cosa.
+La bambina ama leggere più di qualsiasi altra attività della giornata.
+Il gatto non ama il bagno e scappa ogni volta che il bambino prova.
+Il cane ama il bagno e agita la coda quando la bambina lo chiama.
+Il bambino non ama andare a letto presto e protesta ogni sera.
+La bambina non ama mangiare la verdura e la lascia sempre nel piatto.
+Il gatto porta il topo in casa e lo lascia vicino alla ciotola del cane.
+Il cane porta il bastone in casa e lo lascia vicino alla sedia del bambino.
+Il bambino porta il libro a casa e lo lascia sul tavolo per la bambina.
+La bambina porta il succo in casa e lo lascia vicino allo zaino del bambino.
+Il gatto è il più veloce di tutti gli animali che vivono in quella casa.
+Il cane è il più grande di tutti gli animali che vivono in quella casa.
+Il bambino è il più bravo della sua classe a disegnare i fiori.
+La bambina è la più brava della sua classe a leggere e a cantare.
+Il gatto cammina piano lungo il muro del giardino senza cadere mai.
+Il cane corre lungo il viale del parco senza stancarsi mai.
+Il bambino cammina lungo la strada verso scuola ogni mattina da solo.
+La bambina corre lungo il corridoio di casa e il bambino la segue.
+Il gatto si nasconde sotto il letto quando sente un rumore forte.
+Il cane si nasconde dietro il divano quando sente un rumore in giardino.
+Il bambino si nasconde dietro la porta e aspetta che la bambina passi.
+La bambina si nasconde sotto il tavolo e aspetta che il bambino la trovi.
+Il gatto esce in giardino solo quando il sole splende e fa caldo.
+Il cane esce in giardino anche quando fa freddo e piove forte.
+Il bambino esce nel parco solo quando non ha i compiti da fare.
+La bambina esce nel parco solo quando ha finito di leggere il libro.
+Il gatto mangia il pesce e poi va a dormire vicino al bambino sul letto.
+Il cane mangia la carne e poi va a giocare con la bambina in giardino.
+Il bambino mangia la pasta e poi va a fare i compiti sul tavolo.
+La bambina mangia la torta e poi va a cantare la sua canzone preferita.
+Il gatto non riesce a dormire quando il cane abbaia tutta la notte.
+Il cane non riesce a dormire quando il gatto cammina per casa la notte.
+Il bambino non riesce a dormire quando la bambina canta piano nel letto.
+La bambina non riesce a dormire quando il bambino parla nel sonno.
+Il gatto si siede sul davanzale e osserva gli uccelli che volano fuori.
+Il cane si siede vicino al cancello e osserva le persone che passano.
+Il bambino si siede vicino alla finestra e osserva i bambini che giocano fuori.
+La bambina si siede sul divano e osserva il gatto che dorme beato.
+Il gatto vuole il pesce ma il bambino gli dà solo il latte stamattina.
+Il cane vuole la carne ma la bambina gli dà solo l'osso questa sera.
+Il bambino vuole la torta ma la bambina gli dà solo la frutta a merenda.
+La bambina vuole il dolce ma il bambino le dà solo la mela dopo cena.
+Il gatto mangia il topo così rapidamente che il cane non riesce neanche a vederlo.
+Il cane corre così velocemente nel parco che il bambino non riesce a seguirlo.
+Il bambino parla così piano che la bambina non riesce a sentire quello che dice.
+La bambina canta così bene che tutti si fermano ad ascoltarla con piacere.
+Il gatto si sveglia la mattina e subito cerca il bambino per avere il pesce.
+Il cane si sveglia la mattina e subito corre alla porta per uscire in giardino.
+Il bambino si sveglia la mattina e subito chiede alla bambina cosa c'è per colazione.
+La bambina si sveglia la mattina e subito prende il libro che ha lasciato sul comodino.
+Il gatto non capisce perché il bambino non gli dà sempre il pesce quando vuole.
+Il cane non capisce perché la bambina non lancia sempre la palla quando abbaia.
+Il bambino non capisce perché la bambina non vuole giocare quando lui è pronto.
+La bambina non capisce perché il bambino non vuole leggere quando lei glielo chiede.
+Il gatto dorme sul divano tutto il giorno e si sveglia solo per mangiare.
+Il cane dorme sul tappeto tutta la notte e si sveglia solo per abbaiare.
+Il bambino studia tutta la mattina e si riposa solo nel pomeriggio.
+La bambina legge tutta la sera e si riposa solo quando chiude gli occhi.
+Il gatto mangia il pesce e poi va a sedersi sul davanzale a guardare fuori.
+Il cane mangia l'osso e poi va a sdraiarsi sotto l'albero in giardino.
+Il bambino mangia la frutta e poi va a sedersi sul tappeto a disegnare.
+La bambina mangia la mela e poi va a sedersi sul divano a leggere.
+Il gatto porta il topo fuori dal giardino e lo lascia vicino all'albero.
+Il cane porta la palla fuori in giardino e la lascia vicino al cancello.
+Il bambino porta lo zaino fuori di casa e lo lascia vicino alla porta.
+La bambina porta la borsa fuori di casa e la lascia vicino al cancello.
+Il gatto sente il rumore dei passi e si sveglia immediatamente.
+Il cane sente il rumore del cancello e abbaia subito forte.
+Il bambino sente il rumore della musica e inizia a ballare da solo.
+La bambina sente il rumore del cane e si affaccia alla finestra.
+Il gatto che ha mangiato molto si stende sul divano e chiude gli occhi.
+Il cane che ha corso molto si stende sul tappeto e si addormenta subito.
+Il bambino che ha studiato molto si sdraia sul letto e dorme profondamente.
+La bambina che ha letto molto si addormenta sul divano con il libro in mano.
+Il gatto vuole uscire ma fuori piove e lui non vuole bagnarsi.
+Il cane vuole restare fuori ma fa buio e il bambino lo chiama dentro.
+Il bambino vuole restare nel parco ma è tardi e deve tornare a casa.
+La bambina vuole continuare a leggere ma è tardi e deve andare a dormire.
+Il gatto si stende vicino al fuoco e dorme caldo per tutta la notte.
+Il cane si stende vicino alla porta e veglia tutta la notte in silenzio.
+Il bambino si stende nel letto e pensa a quello che farà domani.
+La bambina si stende nel letto e pensa al libro che ha letto oggi.
+Il gatto mangia ogni giorno la stessa cosa e sembra sempre contento.
+Il cane gioca ogni giorno con la stessa palla e non si stanca mai.
+Il bambino va ogni giorno nella stessa scuola e vede gli stessi amici.
+La bambina legge ogni giorno un libro diverso e diventa sempre più brava.
+Il gatto si avvicina lentamente al topo senza fare il minimo rumore.
+Il cane si avvicina lentamente alla palla come se avesse paura che scappasse.
+Il bambino si avvicina lentamente al cane che dorme per non svegliarlo.
+La bambina si avvicina lentamente al gatto che mangia per non spaventarlo.
+Il gatto preferisce il pesce fresco a quello che il bambino lascia nel piatto.
+Il cane preferisce la carne fresca a quella che la bambina lascia nella ciotola.
+Il bambino preferisce la pasta fresca a quella del giorno prima.
+La bambina preferisce i libri nuovi a quelli che ha già letto molte volte.
+Il gatto non vuole dividere il suo pesce con nessuno neanche col cane.
+Il cane non vuole dividere il suo osso con nessuno neanche col gatto.
+Il bambino non vuole dividere i suoi giochi con nessuno neanche con la bambina.
+La bambina non vuole dividere i suoi libri con nessuno neanche col bambino.
+Il gatto miagola.
+Il cane abbaia.
+Il gatto corre dietro al cane in giardino finché il cane non si ferma.
+Il cane corre dietro al gatto in casa finché il gatto non sale sull'albero.
+Il bambino corre dietro al cane nel parco finché non è troppo stanco.
+La bambina corre dietro al gatto in casa finché non lo prende in braccio.
+Il gatto sale sull'albero e guarda il cane che abbaia in basso senza poterlo raggiungere.
+Il cane salta verso l'albero ma non riesce a raggiungere il gatto che lo guarda dall'alto.
+Il bambino guarda il gatto sull'albero e il cane che abbaia e ride molto.
+La bambina guarda il gatto sull'albero e chiama il bambino per farglielo vedere.
+Il gatto dorme così profondamente che non sente nemmeno il cane abbaiare vicino a lui.
+Il cane abbaia così forte che il bambino si sveglia nel mezzo della notte.
+Il bambino dorme così profondamente che non sente la bambina cantare la mattina.
+La bambina canta così piano che il bambino non riesce a sentirla dall'altra stanza.
+Il gatto mangia il topo e poi porta le zampe alla bocca e le lecca con cura.
+Il cane mangia l'osso e poi agita la coda e abbaia per chiederne un altro.
+Il bambino mangia la torta e poi si pulisce la bocca e ringrazia la bambina.
+La bambina mangia la mela e poi prende il libro e riprende a leggere da dove aveva lasciato.
+Il gatto guarda fuori dalla finestra tutto il giorno aspettando che torni il bambino.
+Il cane aspetta vicino alla porta tutto il giorno aspettando che torni la bambina.
+Il bambino aspetta vicino alla scuola la bambina che è sempre in ritardo.
+La bambina aspetta vicino al parco il bambino che è sempre in ritardo.
+Il gatto si siede vicino alla ciotola vuota e guarda il bambino con gli occhi tristi.
+Il cane si siede vicino al cancello chiuso e aspetta che qualcuno lo apra.
+Il bambino si siede vicino alla finestra e aspetta che smetta di piovere per uscire.
+La bambina si siede vicino al tavolo e aspetta che il bambino finisca i compiti.
+Il gatto non riesce a prendere il topo perché questo è più veloce di lui oggi.
+Il cane non riesce a prendere la palla perché il bambino la lancia troppo lontano.
+Il bambino non riesce a fare i compiti perché la bambina canta troppo forte.
+La bambina non riesce a leggere perché il cane abbaia troppo forte fuori.
+Il gatto si nasconde sotto il divano quando arriva qualcuno che non conosce.
+Il cane si nasconde dietro il bambino quando sente un rumore che lo spaventa.
+Il bambino si nasconde dietro la bambina quando vede qualcosa che lo spaventa.
+La bambina si nasconde sotto il tavolo quando il cane abbaia troppo forte.
+Il gatto è stanco di aspettare il pesce e decide di cercarsi il topo da solo.
+Il cane è stanco di aspettare la palla e decide di portarla lui stesso al bambino.
+Il bambino è stanco di aspettare la bambina e decide di iniziare a giocare da solo.
+La bambina è stanca di aspettare il bambino e decide di iniziare a leggere da sola.
+Il gatto mangia il pesce ogni sera nello stesso posto vicino alla finestra.
+Il cane mangia la carne ogni sera nello stesso posto vicino alla porta.
+Il bambino mangia la pasta ogni sera nello stesso posto vicino al bambino.
+La bambina mangia la torta ogni sera nello stesso posto vicino al gatto.
+Il gatto graffia il divano ogni volta che si sveglia e si allunga.
+Il cane agita la coda ogni volta che vede il bambino tornare a casa.
+Il bambino ride ogni volta che il cane salta e abbaia allo stesso tempo.
+La bambina sorride ogni volta che il gatto si stende sui suoi libri.
+Il gatto non capisce perché il bambino va via ogni mattina e torna solo la sera.
+Il cane non capisce perché la bambina porta sempre lo stesso zaino a scuola.
+Il bambino non capisce perché il gatto dorme sempre e non vuole mai giocare.
+La bambina non capisce perché il cane abbaia sempre quando arriva il postino.
+Il gatto si allunga sul divano e occupa tutto lo spazio senza pensarci.
+Il cane si allunga sul tappeto e occupa tutto lo spazio vicino alla porta.
+Il bambino si allunga sul letto e occupa tutto lo spazio lasciando poco alla bambina.
+La bambina si allunga sul divano e occupa tutto lo spazio lasciando poco al gatto.
+Il gatto porta spesso il topo al bambino come segno di affetto.
+Il cane porta spesso la palla alla bambina come invito a giocare.
+Il bambino porta spesso la frutta alla bambina come regalo del mattino.
+La bambina porta spesso i libri al bambino come regalo della sera.
+Il gatto dorme meglio quando il bambino è vicino a lui sul divano.
+Il cane dorme meglio quando la bambina è vicina a lui sul tappeto.
+Il bambino dorme meglio quando il gatto è ai suoi piedi nel letto.
+La bambina dorme meglio quando il cane è vicino alla porta della sua stanza.
+Il gatto si sveglia e guarda intorno come se non ricordasse dove si trova.
+Il cane si sveglia e abbaia come se avesse sognato qualcosa di strano.
+Il bambino si sveglia e guarda il soffitto come se stesse pensando a qualcosa.
+La bambina si sveglia e sorride come se avesse fatto un bel sogno.
+Il gatto mangia il pesce che gli piace di più e lascia quello che non vuole.
+Il cane porta il bastone al bambino e non lo lascia andare fino a quando non lo lancia.
+Il bambino lancia la palla lontano e il cane corre a prenderla più veloce che può.
+La bambina apre il libro al punto in cui si era fermata e riprende a leggere.
+Il gatto si siede accanto al bambino e ronfa piano mentre lui fa i compiti.
+Il cane si siede accanto alla bambina e la guarda mentre lei legge in silenzio.
+Il bambino si siede accanto al gatto e lo accarezza piano mentre lui dorme.
+La bambina si siede accanto al cane e lo abbraccia piano mentre lui dorme.
+Il gatto non esce mai di casa senza prima controllare se il cane è in giardino.
+Il cane non entra mai in casa senza prima controllare se il gatto è sul divano.
+Il bambino non esce mai di casa senza prima mettere lo zaino sulle spalle.
+La bambina non esce mai di casa senza prima prendere il libro dalla borsa.
+Il gatto mangia poco la mattina perché sa che la sera avrà il pesce fresco.
+Il cane mangia molto la mattina perché sa che correrà tutto il giorno nel parco.
+Il bambino mangia molto la mattina perché sa che studierà tutta la mattina a scuola.
+La bambina mangia poco la sera perché sa che ha mangiato molto a mezzogiorno.
+Il gatto osserva la bambina che canta e inclina la testa come se capisse le parole.
+Il cane osserva il bambino che disegna e si avvicina per annusare il foglio.
+Il bambino osserva il gatto che si lecca la zampa e ride della sua cura.
+La bambina osserva il cane che dorme sul tappeto e lo trova molto tenero.
+Il gatto vuole dormire sul letto del bambino ma il bambino lo mette giù ogni notte.
+Il cane vuole dormire sul divano ma la bambina lo porta sempre sul tappeto.
+Il bambino vuole dormire con il gatto ma la bambina dice che non è una buona idea.
+La bambina vuole dormire con il cane ma il bambino dice che il cane deve restare fuori.
+Il gatto salta sul tavolo quando il bambino non guarda e annusa tutto quello che c'è.
+Il cane salta sul divano quando la bambina non guarda e si stende comodo.
+Il bambino salta sul letto quando la bambina non guarda e ride molto.
+La bambina salta sulla sedia quando vede un topo e chiama il bambino.
+Il gatto mangia in silenzio mentre tutti dormono ancora e poi torna a letto.
+Il cane abbaia all'alba e sveglia tutti e poi fa finta di niente.
+Il bambino si sveglia presto e mangia piano per non svegliare la bambina.
+La bambina si sveglia tardi e trova già tutto pronto sul tavolo.
+Il gatto ha imparato che se graffia la porta il bambino apre e lo lascia uscire.
+Il cane ha imparato che se abbaia vicino alla ciotola la bambina gli dà da mangiare.
+Il bambino ha imparato che se studia la mattina può giocare il pomeriggio.
+La bambina ha imparato che se legge ogni giorno diventa sempre più brava.
+Il gatto non si muove dal divano per nessun motivo tranne che per mangiare.
+Il cane non sta fermo in casa per nessun motivo tranne che per dormire.
+Il bambino non sta fermo nel parco per nessun motivo tranne che per mangiare.
+La bambina non sta ferma a casa per nessun motivo tranne che per leggere.
+Il gatto e il cane dormono vicini sul tappeto come se fossero grandi amici.
+Il gatto e il cane mangiano vicini senza litigare quando sono stanchi.
+Il bambino e la bambina giocano insieme nel parco ogni pomeriggio.
+Il bambino e la bambina studiano insieme sul tavolo ogni mattina.
+Il gatto segue il bambino in cucina sperando di ricevere qualcosa da mangiare.
+Il cane segue la bambina in giardino sperando di ricevere la palla da lanciare.
+Il bambino segue la bambina in biblioteca sperando di trovare un libro bello.
+La bambina segue il bambino nel parco sperando di giocare con il cane.
+Il gatto si nasconde dietro le tende e aspetta che il topo passi vicino.
+Il cane si nasconde dietro il cespuglio e aspetta che il gatto scenda dall'albero.
+Il bambino si nasconde dietro l'albero e aspetta che la bambina lo trovi.
+La bambina si nasconde dietro la porta e aspetta che il bambino passi.
+Il gatto graffia il divano ma poi si ferma quando il bambino lo guarda.
+Il cane abbaia forte ma poi si calma quando la bambina lo accarezza.
+Il bambino piange un poco ma poi si ferma quando il cane gli lecca la mano.
+La bambina piange un poco ma poi ride quando il gatto le salta in braccio.
+Il gatto mangia il topo e poi va a fare un lungo giro del giardino.
+Il cane mangia l'osso e poi va a fare un lungo giro del parco con il bambino.
+Il bambino mangia la pasta e poi va a fare un lungo giro nel parco con il cane.
+La bambina mangia il dolce e poi va a fare una lunga passeggiata con il bambino.
+Il gatto vuole uscire ogni volta che sente il sole splendere attraverso la finestra.
+Il cane vuole uscire ogni volta che sente il bambino mettere le scarpe.
+Il bambino vuole uscire ogni volta che finisce i compiti e vede il sole.
+La bambina vuole uscire ogni volta che finisce di leggere e sente il cane abbaiare.
+Il gatto si stende sul libro della bambina ogni volta che lei cerca di leggere.
+Il cane si siede sui piedi del bambino ogni volta che lui cerca di camminare.
+Il bambino si siede vicino al gatto ogni volta che vuole accarezzarlo.
+La bambina si siede vicino al cane ogni volta che vuole abbracciarlo.
+Il gatto mangia il pesce fresco che il bambino porta dal mercato ogni venerdì.
+Il cane gioca con la palla nuova che la bambina porta dal negozio ogni mese.
+Il bambino porta a casa un libro nuovo che la bambina legge subito.
+La bambina porta a casa un fiore che il bambino mette nel vaso sul tavolo.
+Il gatto non vuole essere toccato quando mangia e graffia chiunque si avvicini.
+Il cane non vuole essere disturbato quando dorme e abbaia se qualcuno lo tocca.
+Il bambino non vuole essere disturbato quando fa i compiti e dice alla bambina di aspettare.
+La bambina non vuole essere disturbata quando legge e dice al bambino di aspettare.
+Il gatto è il più pigro di tutti ma è anche il più affettuoso della casa.
+Il cane è il più vivace di tutti ma è anche il più fedele della famiglia.
+Il bambino è il più curioso di tutti ma è anche il più stanco alla sera.
+La bambina è la più brava di tutti ma è anche la più esigente a tavola.
+Il gatto mangia sempre lo stesso pesce ma non si stanca mai di mangiarlo.
+Il cane gioca sempre con la stessa palla ma non si stanca mai di portarla.
+Il bambino studia sempre le stesse materie ma diventa sempre più bravo.
+La bambina legge sempre gli stessi tipi di libri ma trova sempre qualcosa di nuovo.
+Il gatto si sveglia e trova il bambino già seduto a tavola che lo aspetta.
+Il cane si sveglia e trova la bambina già in giardino con la palla in mano.
+Il bambino si sveglia e trova già il latte sul tavolo che lo aspetta.
+La bambina si sveglia e trova già il libro aperto sul divano che la aspetta.
+Il gatto cammina lungo il bordo del tavolo senza far cadere niente.
+Il cane corre lungo il bordo del parco senza mai uscire dal sentiero.
+Il bambino cammina lungo il bordo della strada senza mai scendere sul marciapiede.
+La bambina cammina lungo il corridoio di casa senza fare rumore per non svegliare.
+Il gatto si siede sul giornale ogni volta che il bambino cerca di leggerlo.
+Il cane si siede sui piedi della bambina ogni volta che lei cerca di alzarsi.
+Il bambino si siede sul libro della bambina per scherzare e lei ride.
+La bambina si siede sul cuscino del gatto e lui la guarda storto.
+Il gatto porta le zampe anteriori sul tavolo e annusa quello che c'è.
+Il cane mette le zampe anteriori sul cancello e guarda fuori in attesa.
+Il bambino mette le mani sullo zaino e controlla se ha tutto prima di uscire.
+La bambina mette le mani sulla borsa e controlla se ha il libro prima di uscire.
+Il gatto torna in casa dopo aver camminato per ore nel giardino.
+Il cane torna in casa dopo aver corso per ore nel parco con il bambino.
+Il bambino torna a casa dopo aver studiato per ore a scuola.
+La bambina torna a casa dopo aver letto per ore in biblioteca.
+Il gatto non vuole uscire finché non smette di piovere e fa caldo.
+Il cane vuole uscire anche se piove e anche se fa freddo e buio.
+Il bambino vuole uscire solo se non ha compiti e se il sole splende.
+La bambina vuole uscire solo se ha finito di leggere il capitolo che stava leggendo.
+Il gatto si stende sul letto del bambino e non lascia spazio per nessun altro.
+Il cane si stende sul divano della bambina e non lascia spazio per nessun altro.
+Il bambino si stende sul tappeto del salotto e non lascia spazio per il cane.
+La bambina si stende sul divano e non lascia spazio per il gatto che vuole salire.
+Il gatto mangia il pesce e poi va a bere l'acqua dalla ciotola vicino alla porta.
+Il cane mangia la carne e poi va a bere l'acqua dal ruscello vicino al parco.
+Il bambino mangia la pasta e poi va a bere il succo dal bicchiere sul tavolo.
+La bambina mangia la torta e poi va a bere l'acqua dal bicchiere vicino al libro.
+Il gatto non riesce a stare fermo quando vede un uccello fuori dalla finestra.
+Il cane non riesce a stare fermo quando sente il rumore del cancello che si apre.
+Il bambino non riesce a stare fermo quando sente la musica che piace tanto.
+La bambina non riesce a stare ferma quando sente una canzone che conosce bene.
+Il gatto si nasconde ogni volta che arriva qualcuno che non ha mai visto prima.
+Il cane abbaia ogni volta che arriva qualcuno che non ha mai visto prima.
+Il bambino si nasconde ogni volta che non vuole fare qualcosa che gli chiedono.
+La bambina si nasconde ogni volta che non vuole rispondere a una domanda difficile.
+Il gatto e il bambino si svegliano sempre alla stessa ora ogni mattina.
+Il cane e la bambina si svegliano sempre alla stessa ora ogni mattina.
+Il bambino e il gatto mangiano sempre insieme la sera sul divano.
+La bambina e il cane camminano sempre insieme nel parco ogni pomeriggio.
+Il gatto graffia la sedia quando vuole attirare l'attenzione del bambino.
+Il cane abbaia alla porta quando vuole attirare l'attenzione della bambina.
+Il bambino chiama forte quando vuole attirare l'attenzione del cane nel parco.
+La bambina canta piano quando vuole attirare l'attenzione del gatto sul divano.
+Il gatto sente l'odore del pesce dalla cucina e arriva prima ancora che il bambino lo chiami.
+Il cane sente l'odore della carne dalla cucina e arriva prima ancora che la bambina lo chiami.
+Il bambino sente l'odore della pasta dalla cucina e arriva subito a tavola.
+La bambina sente l'odore della torta dalla cucina e arriva subito a chiederne un pezzo.
+Il gatto dorme sul posto più caldo della casa e si sposta quando cambia il sole.
+Il cane dorme sul posto più fresco del giardino e si sposta quando cambia il vento.
+Il bambino dorme nel letto più comodo della casa e non vuole cambiarlo mai.
+La bambina dorme nel letto più piccolo della casa ma dorme profondamente ogni notte.
+Il gatto si alza e si stira e poi torna a dormire come se non si fosse mai svegliato.
+Il cane si alza e abbaia e poi torna a dormire come se non avesse fatto niente.
+Il bambino si alza e mangia e poi torna a letto come se non fosse ancora mattina.
+La bambina si alza e canta e poi torna a letto come se fosse ancora troppo presto.
+Il gatto non ha fretta di mangiare perché sa che il bambino lo aspetta sempre.
+Il cane non ha fretta di tornare perché sa che la bambina lo aspetta sempre.
+Il bambino non ha fretta di tornare a casa perché sa che il cane lo aspetta.
+La bambina non ha fretta di finire il libro perché sa che ne ha un altro da leggere.
+Il gatto cammina sulla tastiera del bambino e cancella tutto quello che ha scritto.
+Il cane porta via la penna del bambino e la porta in giardino come se fosse un bastone.
+Il bambino prende il gomitolo del gatto e lo lancia lontano per farlo correre.
+La bambina prende il bastone del cane e lo lancia in giardino per farlo correre.
+Il gatto osserva il bambino fare i compiti per ore senza muoversi dal tavolo.
+Il cane osserva la bambina leggere per ore senza muoversi dal divano.
+Il bambino osserva il gatto dormire per ore senza muoversi dal divano.
+La bambina osserva il cane dormire per ore senza muoversi dal tappeto.
+Il gatto vuole dormire sul letto ma il bambino lo porta sempre giù ogni notte.
+Il cane vuole dormire sul divano ma la bambina lo porta sempre sul tappeto ogni notte.
+Il bambino vuole restare sveglio ma il gatto lo addormenta ronzando vicino a lui.
+La bambina vuole restare sveglia ma il cane la addormenta sdraiandosi vicino a lei.
+Il gatto mangia poco quando è caldo e mangia molto quando fa freddo.
+Il cane beve molto quando è caldo e beve poco quando fa freddo.
+Il bambino mangia poco quando è stanco e mangia molto quando ha giocato tanto.
+La bambina legge molto quando fa brutto tempo e esce molto quando fa bello.
+Il gatto si avvicina alla finestra ogni volta che sente un uccello cantare fuori.
+Il cane si avvicina al cancello ogni volta che sente un rumore fuori dal giardino.
+Il bambino si avvicina alla televisione ogni volta che sente la sua canzone preferita.
+La bambina si avvicina alla libreria ogni volta che finisce un libro e ne vuole un altro.
+Il gatto mangia tutto quello che il bambino gli porta senza lasciare niente nel piatto.
+Il cane mangia tutto quello che la bambina gli mette nella ciotola senza lasciare niente.
+Il bambino mangia tutto quello che c'è nel piatto tranne la verdura che lascia sempre.
+La bambina mangia tutto quello che c'è nel piatto tranne la carne che lascia sempre.
+Il gatto graffia il divano quando si annoia e il bambino gli porta il gomitolo per calmarlo.
+Il cane abbaia quando si annoia e la bambina gli porta la palla per calmarlo.
+Il bambino si annoia quando piove e il gatto gli si siede vicino per tenergli compagnia.
+La bambina si annoia quando non ha libri nuovi e il cane le si siede vicino.
+Il gatto ha imparato a aprire la porta della cucina per prendere il cibo da solo.
+Il cane ha imparato a prendere la palla da solo senza aspettare che qualcuno la lanci.
+Il bambino ha imparato a fare i compiti da solo senza chiedere aiuto alla bambina.
+La bambina ha imparato a leggere da sola senza chiedere aiuto al bambino.
+Il gatto si mette vicino alla porta ogni sera alle sette aspettando il bambino.
+Il cane si mette vicino al cancello ogni sera alle sei aspettando la bambina.
+Il bambino si mette vicino alla finestra ogni sera e aspetta che il cane torni.
+La bambina si mette vicino alla porta ogni sera e aspetta che il bambino torni.
+Il gatto non lascia mai il bambino mangiare in pace e vuole sempre qualcosa.
+Il cane non lascia mai la bambina leggere in pace e vuole sempre giocare.
+Il bambino non lascia mai il gatto dormire in pace e vuole sempre accarezzarlo.
+La bambina non lascia mai il cane stare in giardino da solo e vuole sempre seguirlo.
+Il gatto si stende ai piedi del bambino ogni volta che lui si siede sul divano.
+Il cane si stende ai piedi della bambina ogni volta che lei si siede a tavola.
+Il bambino si stende ai piedi del letto ogni volta che il gatto occupa il cuscino.
+La bambina si stende ai piedi del letto ogni volta che il cane occupa tutto il resto.
+Il gatto porta il topo al bambino ogni mattina come se fosse un regalo speciale.
+Il cane porta la palla alla bambina ogni pomeriggio come se fosse la prima volta.
+Il bambino porta un fiore alla bambina ogni giorno come se fosse una cosa normale.
+La bambina porta un libro al bambino ogni settimana come se fosse una tradizione.
+Il gatto non capisce perché il bambino mette il topo che ha portato nella spazzatura.
+Il cane non capisce perché la bambina non vuole più giocare dopo dieci lanci.
+Il bambino non capisce perché il gatto graffia il divano nuovo ogni giorno.
+La bambina non capisce perché il cane abbaia sempre quando lei cerca di dormire.
+Il gatto dorme sedici ore al giorno e il bambino lo osserva con invidia.
+Il cane dorme otto ore la notte e poi è pronto a correre tutto il giorno.
+Il bambino dorme otto ore la notte e la mattina fatica ad alzarsi comunque.
+La bambina dorme sette ore la notte e la mattina è già sveglia e pronta.
+Il gatto si gira su se stesso tre volte prima di sistemarsi per dormire.
+Il cane si gira su se stesso due volte prima di sdraiarsi sul tappeto.
+Il bambino si gira nel letto molte volte prima di trovare la posizione giusta.
+La bambina si mette subito comoda nel letto e si addormenta in pochi minuti.
+Il gatto osserva il bambino dormire e poi si stende vicino a lui senza fare rumore.
+Il cane osserva la bambina dormire e poi si stende vicino alla porta senza abbaiare.
+Il bambino osserva il gatto dormire e poi si addormenta anche lui sul divano.
+La bambina osserva il cane dormire e poi prende il libro e inizia a leggere.
+Il gatto e il cane sono molto diversi ma vivono bene insieme nella stessa casa.
+Il bambino e la bambina sono molto diversi ma vanno d'accordo quasi sempre.
+Il gatto ama dormire e il cane ama correre ma si vogliono bene comunque.
+Il bambino ama giocare e la bambina ama leggere ma giocano insieme ogni sera.
+Il gatto graffia il bambino per sbaglio e poi gli lecca la mano per scusarsi.
+Il cane abbaia alla bambina per sbaglio e poi le agita la coda per scusarsi.
+Il bambino fa cadere il libro della bambina per sbaglio e poi lo raccoglie.
+La bambina fa cadere il gomitolo del gatto per sbaglio e poi lo rimette a posto.
+Il gatto si alza dal divano solo quando sente aprire il frigorifero in cucina.
+Il cane si alza dal tappeto solo quando sente aprire il cancello del giardino.
+Il bambino si alza dal letto solo quando sente il profumo della colazione.
+La bambina si alza dal divano solo quando sente il bambino chiamarla dal parco.
+Il gatto vive in casa da tre anni e conosce ogni angolo come le sue zampe.
+Il cane vive in giardino da due anni e conosce ogni angolo come il suo muso.
+Il bambino frequenta la stessa scuola da quattro anni e conosce tutti.
+La bambina frequenta la stessa biblioteca da un anno e conosce tutti i libri.
+Il gatto si stende sul davanzale la mattina e guarda il mondo che si sveglia.
+Il cane si siede vicino al cancello la mattina e guarda il mondo che passa.
+Il bambino si siede vicino alla finestra la mattina e guarda il giardino che si sveglia.
+La bambina si siede sul divano la mattina e guarda il gatto che dorme sul davanzale.
+Il gatto e il cane mangiano a orari diversi ma bevono sempre alla stessa ciotola.
+Il bambino e la bambina mangiano sempre insieme ma bevono cose diverse.
+Il gatto mangia prima e il cane mangia dopo e così non litigano mai.
+Il bambino mangia prima e la bambina mangia dopo quando c'è poca pasta.
+Il gatto ha graffiato il divano così tante volte che il bambino lo ha coperto.
+Il cane ha scavato così tante buche in giardino che la bambina ha smesso di contarle.
+Il bambino ha fatto cadere così tanti libri che la bambina ha smesso di rimproverarlo.
+La bambina ha dimenticato così tante volte il libro a scuola che il bambino le ha regalato un secondo.
+Il gatto si siede sulla testa del bambino di notte e lui non riesce a dormire.
+Il cane si siede sui piedi della bambina di notte e lei non riesce a muoversi.
+Il bambino si siede sul divano e il gatto arriva sempre a sedersi vicino a lui.
+La bambina si siede sul tappeto e il cane arriva sempre a sdraiarsi vicino a lei.
+Il gatto mangia il pesce lentamente solo quando non ha troppa fame.
+Il cane mangia la carne lentamente solo quando non ha troppa fame.
+Il bambino mangia la pasta lentamente solo quando non ha molto appetito.
+La bambina mangia la torta lentamente solo per farla durare più a lungo.
+Il gatto non vuole scendere dal letto e il bambino deve spostarlo ogni mattina.
+Il cane non vuole uscire dal divano e la bambina deve tirarlo per il collare ogni mattina.
+Il bambino non vuole alzarsi dal letto e la bambina deve chiamarlo più volte.
+La bambina non vuole smettere di leggere e il bambino deve spegnerle la luce.
+Il gatto cammina sul tavolo mentre il bambino cerca di mangiare la cena.
+Il cane gira intorno alla sedia mentre la bambina cerca di fare i compiti.
+Il bambino gira intorno al gatto mentre questo cerca di dormire sul divano.
+La bambina gira intorno al cane mentre questo cerca di mangiare in pace.
+Il gatto si avvicina al bambino quando questo piange e gli si siede vicino.
+Il cane si avvicina alla bambina quando questa piange e le lecca la mano.
+Il bambino si avvicina al gatto quando questo miagola e lo prende in braccio.
+La bambina si avvicina al cane quando questo abbaia e lo accarezza piano.
+Il gatto mangia così tanto pesce che il bambino ha smesso di contare quante volte al giorno.
+Il cane gioca così tanto con la palla che la bambina ha smesso di contare quante volte al giorno.
+Il bambino fa così tanti compiti che la bambina dice che è il più bravo della scuola.
+La bambina legge così tanti libri che il bambino dice che è la più brava di tutti.
+Il gatto è diventato il migliore amico del bambino senza che nessuno se ne accorgesse.
+Il cane è diventato la migliore amica della bambina senza che nessuno se ne accorgesse.
+Il bambino è diventato il migliore amico del cane senza volerlo.
+La bambina è diventata la migliore amica del gatto senza nemmeno pensarci.
+Il gatto non esce mai senza prima guardare se il cane è in giardino ad aspettarlo.
+Il cane non entra mai senza prima aspettare che qualcuno apra il cancello per lui.
+Il bambino non esce mai senza aver detto alla bambina dove sta andando.
+La bambina non esce mai senza aver controllato di avere il libro nella borsa.
+Il gatto si siede accanto al bambino e fa le fusa finché lui non lo accarezza.
+Il cane si stende accanto alla bambina e agita la coda finché lei non lo accarezza.
+Il bambino si siede accanto al gatto e lo guarda dormire finché non si addormenta anche lui.
+La bambina si stende accanto al cane e lo abbraccia finché non si addormenta.
+Il gatto mangia il pesce fresco e non vuole assaggiare nient'altro quella sera.
+Il cane mangia la carne fresca e non vuole assaggiare nient'altro quella mattina.
+Il bambino mangia la pasta fresca e non vuole assaggiare nient'altro a cena.
+La bambina mangia la torta fresca e non vuole assaggiare nient'altro a merenda.
+Il gatto osserva la bambina cucire e si siede sul tessuto ogni volta che lei lo stende.
+Il cane osserva il bambino disegnare e annusa il foglio ogni volta che lui lo posa.
+Il bambino osserva la bambina cucinare e chiede di assaggiare ogni volta che può.
+La bambina osserva il bambino costruire e chiede di aiutare ogni volta che può.
+Il gatto non capisce il cane e il cane non capisce il gatto ma vanno d'accordo.
+Il bambino non capisce sempre la bambina e lei non capisce sempre lui ma si vogliono bene.
+Il gatto e il cane litigano a volte ma poi si ritrovano a dormire vicini sul tappeto.
+Il bambino e la bambina litigano a volte ma poi si ritrovano a giocare insieme nel parco.
+Il gatto preferisce stare in casa d'inverno e in giardino d'estate.
+Il cane preferisce stare in giardino d'estate e vicino al fuoco d'inverno.
+Il bambino preferisce giocare fuori d'estate e studiare dentro d'inverno.
+La bambina preferisce leggere dentro d'inverno e correre fuori d'estate.
+Il gatto salta sul letto del bambino ogni notte anche se il bambino lo mette giù.
+Il cane sale sul divano della bambina ogni sera anche se lei lo porta sul tappeto.
+Il bambino torna a letto ogni mattina dopo colazione come se fosse ancora notte.
+La bambina si rialza ogni notte per bere un bicchiere di acqua.
+Il gatto impara in fretta e sa già che graffiare la porta significa uscire.
+Il cane impara in fretta e sa già che sedersi significa ricevere qualcosa da mangiare.
+Il bambino impara in fretta e sa già che studiare significa avere bei voti.
+La bambina impara in fretta e sa già che leggere ogni giorno significa diventare brava.
+Il gatto è curioso di tutto quello che vede e annusa ogni cosa nuova in casa.
+Il cane è curioso di tutto quello che sente e abbaia a ogni rumore che non conosce.
+Il bambino è curioso di tutto quello che impara e fa molte domande alla bambina.
+La bambina è curiosa di tutto quello che legge e vuole sempre sapere di più.
+Il gatto mangia il topo e poi si lecca le zampe guardando il bambino con gli occhi soddisfatti.
+Il cane porta la palla e poi la lascia ai piedi del bambino guardandolo con gli occhi felici.
+Il bambino porta il fiore e poi lo mette nel vaso guardando la bambina sorridere.
+La bambina porta il libro e poi lo apre guardando il bambino che legge con lei.
+Il gatto non lascia mai la sua ciotola vuota senza protestare in qualche modo.
+Il cane non lascia mai la sua ciotola vuota senza abbaiare in qualche modo.
+Il bambino non lascia mai il piatto con la verdura senza protestare un poco.
+La bambina non lascia mai il piatto con la carne senza dire che non le piace.
+Il gatto ha graffiato il bambino una volta e poi non lo ha fatto mai più.
+Il cane ha abbaiato alla bambina una volta e poi non lo ha fatto mai più.
+Il bambino ha fatto cadere il gatto una volta e poi ha fatto molta più attenzione.
+La bambina ha tirato la coda al cane una volta e poi ha imparato a non farlo più.
+Il gatto si addormenta sempre mentre il bambino gli racconta qualcosa.
+Il cane si addormenta sempre mentre la bambina gli canta una canzone.
+Il bambino si addormenta sempre mentre la bambina gli legge un libro la sera.
+La bambina si addormenta sempre mentre il bambino le racconta la sua giornata.
+Il gatto vuole sempre sapere cosa c'è dall'altra parte della porta chiusa.
+Il cane vuole sempre sapere cosa c'è dall'altra parte del cancello chiuso.
+Il bambino vuole sempre sapere cosa c'è nell'altra stanza quando la porta è chiusa.
+La bambina vuole sempre sapere cosa c'è nella borsa che il bambino porta a casa.
+Il gatto segue il bambino in ogni stanza della casa senza lasciarlo mai solo.
+Il cane segue la bambina in ogni angolo del giardino senza lasciarla mai sola.
+Il bambino segue il cane in ogni angolo del parco senza perderlo mai di vista.
+La bambina segue il gatto in ogni stanza della casa senza perderlo mai di vista.
+Il gatto mangia il pesce e poi si siede vicino alla finestra a guardare fuori.
+Il cane mangia la carne e poi si siede vicino al cancello ad aspettare che si apra.
+Il bambino mangia la pasta e poi si siede vicino alla televisione a guardare.
+La bambina mangia il dolce e poi si siede vicino al gatto a leggergli il libro.
+Il gatto e il bambino si guardano spesso negli occhi e si capiscono senza parlare.
+Il cane e la bambina si guardano spesso negli occhi e si capiscono senza parole.
+Il bambino e la bambina si guardano spesso e sanno cosa pensa l'altro senza parlare.
+Il gatto e il cane si guardano spesso e sanno quando è ora di mangiare entrambi.
+Il gatto dorme nel letto del bambino quando il bambino è a scuola.
+Il cane dorme sul divano della bambina quando la bambina è a scuola.
+Il bambino dorme nel letto grande quando i genitori non ci sono.
+La bambina dorme sul divano quando non riesce a smettere di leggere.
+Il gatto si sveglia prima del bambino e aspetta in silenzio che lui si alzi.
+Il cane si sveglia prima della bambina e aspetta in silenzio che lei si alzi.
+Il bambino si sveglia prima della bambina e fa colazione da solo in silenzio.
+La bambina si sveglia prima del bambino e legge un poco prima che lui si alzi.
+Il gatto si addormenta sul libro aperto della bambina e lei non riesce a leggerlo.
+Il cane si addormenta sul disegno del bambino e lui non riesce a finirlo.
+Il bambino si addormenta sul tavolo mentre fa i compiti e la bambina lo sveglia.
+La bambina si addormenta sul divano mentre legge e il bambino la copre piano.
+Il gatto è il re della casa e lo sa e si comporta di conseguenza.
+Il cane è il guardiano della casa e lo sa e si comporta di conseguenza.
+Il bambino è il più piccolo della famiglia ma si dà grandi arie.
+La bambina è la più grande ma non si dà mai troppe arie con il bambino.
+Il gatto, il cane, il bambino e la bambina vivono tutti insieme felici.
+Il gatto e il cane dormono insieme e il bambino e la bambina giocano insieme.
+Il gatto mangia il suo pesce e il cane mangia la sua carne e nessuno tocca il piatto dell'altro.
+Il bambino studia la mattina e la bambina legge il pomeriggio e la sera mangiano insieme.
+Il gatto non vorrebbe mai lasciare la casa dove vive con il bambino.
+Il cane non vorrebbe mai lasciare il giardino dove gioca con la bambina.
+Il bambino non vorrebbe mai lasciare il parco dove gioca con il cane ogni giorno.
+La bambina non vorrebbe mai lasciare la biblioteca dove legge ogni settimana.
+Il gatto sa quando il bambino è triste e gli si siede vicino senza fare rumore.
+Il cane sa quando la bambina è triste e le lecca la mano senza abbaiare.
+Il bambino sa quando il gatto ha fame e gli porta il pesce senza aspettare.
+La bambina sa quando il cane vuole giocare e gli porta la palla senza aspettare.
+Il gatto è il migliore amico del bambino anche se non parla e non gioca a palla.
+Il cane è la migliore amica della bambina anche se non legge e non canta.
+Il bambino è il migliore amico del gatto anche se a volte lo disturba mentre dorme.
+La bambina è la migliore amica del cane anche se a volte dimentica di portargli la palla.
+Il gatto fa le fusa quando è felice e il bambino lo sente anche dall'altra stanza.
+Il cane agita la coda quando è felice e la bambina lo vede anche dall'altra parte del giardino.
+Il bambino ride quando è felice e il gatto lo sente e si sveglia dal divano.
+La bambina canta quando è felice e il cane la sente e corre verso di lei.
+Il gatto ha un posto preferito in ogni stanza della casa e lo difende sempre.
+Il cane ha un posto preferito in ogni angolo del giardino e lo difende sempre.
+Il bambino ha un posto preferito sul divano e lo difende sempre dalla bambina.
+La bambina ha un posto preferito sul divano e lo difende sempre dal bambino.
+Il gatto mangia poco ogni volta ma mangia molte volte al giorno.
+Il cane mangia molto ogni volta ma mangia solo due volte al giorno.
+Il bambino mangia poco a colazione ma mangia molto a pranzo e a cena.
+La bambina mangia molto a colazione ma mangia poco a pranzo e a cena.
+Il gatto si stira ogni volta che si sveglia come se si preparasse per qualcosa.
+Il cane si scrolla ogni volta che esce dall'acqua come se si asciugasse.
+Il bambino si allunga ogni volta che si alza dal tavolo dopo i compiti.
+La bambina si alza e si stira ogni volta che finisce un capitolo del libro.
+Il gatto cammina sempre in punta di zampe quando il bambino dorme.
+Il cane cammina sempre in punta di zampe quando la bambina dorme.
+Il bambino cammina sempre in punta di piedi quando il gatto dorme sul divano.
+La bambina cammina sempre in punta di piedi quando il cane dorme sul tappeto.
+Il gatto porta il topo e lo mette davanti al bambino come un trofeo.
+Il cane porta il bastone e lo mette davanti alla bambina come un regalo.
+Il bambino porta il disegno e lo mostra alla bambina con grande orgoglio.
+La bambina porta il libro che ha finito e lo mostra al bambino con grande soddisfazione.
+Il gatto guarda il bambino negli occhi e sa già cosa vuole senza che lui parli.
+Il cane guarda la bambina negli occhi e sa già cosa vuole senza che lei parli.
+Il bambino guarda il gatto negli occhi e capisce quando questo ha fame o ha paura.
+La bambina guarda il cane negli occhi e capisce quando questo vuole giocare o dormire.
+Il gatto e il cane sono diversi in tutto ma si rispettano e convivono bene.
+Il bambino e la bambina sono diversi in tutto ma si rispettano e vanno d'accordo.
+Il gatto dorme quando vuole, mangia quando vuole e fa quello che vuole.
+Il cane gioca quando vuole, abbaia quando vuole e corre quando vuole.
+Il bambino studia quando deve, gioca quando può e dorme quando è stanco.
+La bambina legge quando vuole, canta quando può e dorme quando è stanca.
+Il gatto si avvicina alla ciotola vuota e la spinge con la zampa verso il bambino.
+Il cane si avvicina alla ciotola vuota e la spinge con il muso verso la bambina.
+Il bambino si avvicina al piatto vuoto e lo porta in cucina senza che nessuno glielo chieda.
+La bambina si avvicina al bicchiere vuoto e lo riempie da sola senza chiedere aiuto.
+Il gatto graffia la tenda per salire e raggiungere il davanzale della finestra.
+Il cane salta contro la porta per raggiungere la maniglia e aprirla da solo.
+Il bambino sale sulla sedia per raggiungere il libro in cima alla libreria.
+La bambina sale sul tavolo per raggiungere il gomitolo del gatto caduto in alto.
+Il gatto non vuole mangiare il cibo di ieri e aspetta quello fresco di oggi.
+Il cane non vuole giocare con la palla vecchia e aspetta quella nuova.
+Il bambino non vuole indossare i vestiti di ieri e vuole quelli puliti di oggi.
+La bambina non vuole leggere un libro già letto e vuole sempre uno nuovo.
+Il gatto si sveglia, si stira, beve un poco di acqua e poi torna a dormire.
+Il cane si sveglia, abbaia una volta, beve molto e poi torna a dormire sul tappeto.
+Il bambino si sveglia, beve il latte, mangia il pane e poi prende lo zaino per scuola.
+La bambina si sveglia, beve il succo, prende il libro e inizia a leggere prima di colazione.
+Il gatto segue ogni movimento del topo senza perdere la concentrazione per un secondo.
+Il cane segue ogni movimento della palla senza perdere di vista dove cade.
+Il bambino segue ogni parola della bambina senza perdere il filo del discorso.
+La bambina segue ogni riga del libro senza perdere il senso di quello che legge.
+Il gatto non abbaia mai e il cane non miagola mai e ognuno resta nel suo ruolo.
+Il bambino non graffia mai e la bambina non abbaia mai e tutto va bene.
+Il gatto fa le fusa di notte e il bambino lo sente nel sonno e sorride.
+Il cane abbaia di notte e la bambina lo sente nel sonno e si sveglia.
+Il bambino parla nel sonno di notte e il gatto lo guarda curioso.
+La bambina ride nel sonno di notte e il cane le si avvicina incuriosito.
+Il gatto mangia il pesce ogni sera e ogni sera sembra la prima volta che lo assaggia.
+Il cane gioca con la palla ogni mattina e ogni mattina sembra la prima volta che la vede.
+Il bambino va al parco ogni pomeriggio e ogni pomeriggio trova qualcosa di nuovo.
+La bambina legge ogni sera e ogni sera trova qualcosa di interessante nel libro.
+Il gatto corre verso il bambino quando sente il rumore della porta che si apre.
+Il cane corre verso la bambina quando sente il rumore del cancello che si apre.
+Il bambino corre verso il cane quando lo vede nel parco da lontano.
+La bambina corre verso il gatto quando lo vede sul davanzale da lontano.
+Il gatto impara ogni giorno qualcosa di nuovo sulla casa e su chi ci vive.
+Il cane impara ogni giorno qualcosa di nuovo sul giardino e su chi lo frequenta.
+Il bambino impara ogni giorno qualcosa di nuovo a scuola e lo racconta la sera.
+La bambina impara ogni giorno qualcosa di nuovo dai libri e lo racconta al bambino.
+Il gatto si stende sul giornale del bambino e lui non riesce più a leggerlo.
+Il cane si siede sui compiti del bambino e lui non riesce più a farli.
+Il bambino si siede sul gomitolo del gatto e il gatto lo guarda infastidito.
+La bambina si siede sul bastone del cane e il cane la guarda confuso.
+Il gatto e il cane si guardano ogni mattina come se si stessero salutando.
+Il bambino e la bambina si salutano ogni mattina prima di andare ognuno per la sua strada.
+Il gatto saluta il bambino sfregando la testa sulla sua gamba ogni mattina.
+Il cane saluta la bambina agitando la coda ogni volta che la vede.
+Il bambino saluta il gatto accarezzandolo ogni volta che torna a casa.
+La bambina saluta il cane abbracciandolo ogni volta che rientra dal parco.
+Il gatto mangia di più in inverno e di meno in estate come tutti i gatti.
+Il cane beve di più in estate e di meno in inverno come tutti i cani.
+Il bambino studia di più in autunno e di meno in estate come tutti i bambini.
+La bambina legge di più in inverno e di meno in estate come tutti i bambini.
+Il gatto dorme sul posto più caldo quando fa freddo e sul posto più fresco quando fa caldo.
+Il cane sta all'ombra quando fa caldo e al sole quando fa freddo.
+Il bambino mette il maglione quando fa freddo e la maglietta quando fa caldo.
+La bambina mette il cappotto quando fa freddo e il vestito leggero quando fa caldo.
+Il gatto porta il topo al bambino e poi si siede ad aspettare un complimento.
+Il cane porta il bastone alla bambina e poi si siede ad aspettare un biscotto.
+Il bambino porta il disegno alla bambina e poi si siede ad aspettare un giudizio.
+La bambina porta il libro al bambino e poi si siede ad aspettare che lui dica grazie.
+Il gatto non vuole il biscotto del cane e il cane non vuole il pesce del gatto.
+Il bambino non vuole il libro della bambina e la bambina non vuole la palla del bambino.
+Il gatto vuole sempre il pesce migliore e non si accontenta di quello avanzato.
+Il cane vuole sempre la palla più nuova e non si accontenta di quella vecchia.
+Il bambino vuole sempre il posto migliore sul divano e non si accontenta degli altri.
+La bambina vuole sempre il libro più bello della libreria e non si accontenta di quelli già letti.
+Il gatto si nasconde quando arrivano ospiti e torna solo quando se ne vanno.
+Il cane abbaia quando arrivano ospiti e poi li saluta agitando la coda.
+Il bambino si nasconde quando arrivano ospiti che non conosce bene.
+La bambina accoglie sempre gli ospiti con un sorriso e offre qualcosa da bere.
+Il gatto esce in giardino la mattina e torna in casa solo quando ha fame.
+Il cane esce in giardino la mattina e torna in casa solo quando sente il nome.
+Il bambino esce nel parco il pomeriggio e torna a casa solo quando chiama la bambina.
+La bambina esce nel parco il pomeriggio e torna a casa solo quando fa buio.
+Il gatto dorme vicino alla finestra d'estate per sentire il vento fresco.
+Il cane dorme vicino alla porta d'estate per poter uscire subito in giardino.
+Il bambino dorme con la finestra aperta d'estate per sentire l'aria fresca.
+La bambina dorme con il libro vicino al letto ogni notte in ogni stagione.
+Il gatto graffia il tappeto quando ha i graffi lunghi e il bambino glielo taglia.
+Il cane porta i giochi in giro per la casa e la bambina li raccoglie ogni sera.
+Il bambino lascia i giochi in giro per la casa e la bambina li raccoglie ogni sera.
+La bambina lascia i libri aperti in giro per la casa e il bambino li chiude ogni sera.
+Il gatto mangia piano quando non ha molta fame e veloce quando è affamato.
+Il cane mangia piano quando è stanco e veloce quando ha molta energia.
+Il bambino mangia piano quando non gli piace quello che c'è e veloce quando è buono.
+La bambina mangia piano sempre perché dice che fa bene masticare bene ogni boccone.
+Il gatto osserva il mondo dalla finestra ogni giorno con gli stessi occhi curiosi.
+Il cane osserva il mondo dal cancello ogni giorno con gli stessi occhi attenti.
+Il bambino osserva il mondo dal parco ogni giorno con gli stessi occhi meravigliati.
+La bambina osserva il mondo dai libri ogni giorno con gli stessi occhi appassionati.
+Il gatto ha imparato a dormire con un occhio solo quando il cane è vicino.
+Il cane ha imparato a correre più piano quando il gatto è stanco e non regge.
+Il bambino ha imparato a parlare piano quando la bambina sta leggendo.
+La bambina ha imparato a cantare sottovoce quando il bambino sta studiando.
+Il gatto vuole sempre fare quello che vuole e non ascolta nessuno.
+Il cane vuole sempre fare quello che gli dicono e ascolta tutti.
+Il bambino vuole sempre fare quello che vuole ma a volte ascolta la bambina.
+La bambina vuole sempre fare quello che è giusto e ascolta quasi sempre il bambino.
+Il gatto porta fuori il topo ogni mattina e lo porta dentro ogni sera.
+Il cane porta fuori il bastone ogni mattina e lo porta dentro ogni sera.
+Il bambino porta fuori lo zaino ogni mattina e lo porta dentro ogni sera.
+La bambina porta fuori la borsa ogni mattina e la porta dentro ogni sera.
+Il gatto si stende sul libro che la bambina ha lasciato aperto sul tavolo.
+Il cane si stende sul disegno che il bambino ha lasciato aperto sul pavimento.
+Il bambino si stende sul tappeto e usa il gatto come cuscino senza svegliarlo.
+La bambina si stende sul divano e usa il cane come coperta senza svegliarlo.
+Il gatto non ama essere preso in braccio ma ama sedersi vicino a chi lo accarezza.
+Il cane ama essere preso in braccio e ama stare vicino a chiunque lo accarezzi.
+Il bambino ama essere abbracciato dalla bambina ma finge di non volerlo.
+La bambina ama abbracciare il bambino e non si stanca mai di farlo.
+Il gatto sa che se miagola il bambino gli porta il pesce e quindi miagola spesso.
+Il cane sa che se abbaia la bambina gli porta la palla e quindi abbaia spesso.
+Il bambino sa che se studia può giocare dopo e quindi studia ogni mattina.
+La bambina sa che se legge diventa più brava e quindi legge ogni sera.
+Il gatto, il cane, il bambino e la bambina hanno ognuno le proprie abitudini.
+Ognuno mangia quello che preferisce e dorme dove vuole e così vanno d'accordo.
+Il gatto preferisce il pesce, il cane preferisce la carne, il bambino preferisce la pasta e la bambina preferisce la frutta.
+Il gatto dorme di giorno, il cane dorme di notte, il bambino e la bambina dormono entrambi la notte.
+Quando piove il gatto resta in casa, il cane esce lo stesso, il bambino resta a casa e la bambina legge sul divano.
+Quando c'è il sole il gatto va sul davanzale, il cane va in giardino, il bambino va al parco e la bambina va in biblioteca.
+Il gatto è felice con poco, il cane è felice con la palla, il bambino è felice con il cane e la bambina è felice con un bel libro.
+Il gatto dorme il doppio degli altri e mangia la metà e sembra comunque il più soddisfatto.
+Il cane corre il doppio degli altri e beve la metà e sembra comunque il più energico.
+Il bambino studia la metà degli altri ma gioca il doppio e sembra sempre il più felice.
+La bambina legge il doppio degli altri e dorme la metà e sembra sempre la più sveglia.
+Il gatto miagola una volta sola e il bambino capisce subito di cosa ha bisogno.
+Il cane abbaia una volta sola e la bambina capisce subito di cosa ha bisogno.
+Il bambino dice una parola sola e il gatto capisce subito di cosa ha bisogno.
+La bambina fa un gesto solo e il cane capisce subito di cosa ha bisogno.
+Il gatto non ha bisogno di molto per essere felice, solo pesce fresco e un posto caldo.
+Il cane non ha bisogno di molto per essere felice, solo una palla e qualcuno con cui giocare.
+Il bambino non ha bisogno di molto per essere felice, solo il cane e il parco.
+La bambina non ha bisogno di molto per essere felice, solo un libro bello e un posto tranquillo.
+Il gatto è sempre al suo posto quando il bambino ha bisogno di lui.
+Il cane è sempre al suo posto quando la bambina ha bisogno di lui.
+Il bambino è sempre al suo posto quando il gatto ha bisogno di lui.
+La bambina è sempre al suo posto quando il cane ha bisogno di lei.
+Alla fine della giornata il gatto dorme, il cane dorme, il bambino dorme e la bambina dorme.
+Alla fine della settimana tutti sono stanchi ma tutti sono felici.
+Il gatto, il cane, il bambino e la bambina sono una famiglia e si vogliono bene.
+Il gatto non graffia mai il bambino di proposito e quando lo fa per sbaglio si ferma subito.
+Il cane non abbaia mai alla bambina di proposito e quando lo fa per sbaglio si calma subito.
+Il bambino non disturba mai il gatto di proposito e quando lo fa per sbaglio si scusa subito.
+La bambina non disturba mai il cane di proposito e quando lo fa per sbaglio lo accarezza subito.
+Il gatto si siede sempre sulla stessa sedia e guarda male chiunque voglia sedersi lì.
+Il cane si siede sempre sullo stesso tappeto e grugnisce se qualcuno lo sposta.
+Il bambino si siede sempre nello stesso posto a tavola e protesta se qualcuno lo prende.
+La bambina si siede sempre nello stesso angolo del divano e non lo cede mai a nessuno.
+Il gatto osserva il cane correre in giardino dall'alto del suo albero senza scendere.
+Il cane osserva il gatto sull'albero abbaiando senza riuscire a salire.
+Il bambino osserva il cane e il gatto che si guardano e capisce che non litigheranno.
+La bambina osserva il bambino e il gatto che giocano insieme e sorride.
+Il gatto mangia lentamente quando è di buon umore e velocemente quando ha fretta.
+Il cane mangia velocemente sempre perché ha sempre fretta di tornare a giocare.
+Il bambino mangia lentamente quando non ha fame e velocemente quando ha molta fame.
+La bambina mangia sempre alla stessa velocità perché dice che è la cosa giusta.
+Il gatto porta il topo in casa con grande orgoglio e lo mostra a tutti.
+Il cane porta il bastone in casa con grande gioia e lo lascia in mezzo alla stanza.
+Il bambino porta il disegno a casa con grande soddisfazione e lo appende al muro.
+La bambina porta il libro a casa con grande entusiasmo e inizia subito a leggerlo.
+Il gatto è sveglio di notte e dorme di giorno e il bambino dice che è un po' strano.
+Il cane è sveglio di giorno e dorme di notte e la bambina dice che è molto normale.
+Il bambino è sveglio di mattina e vuole dormire il pomeriggio ma non può.
+La bambina è sveglia sempre tranne la notte quando dorme profondamente.
+Il gatto graffia il pavimento vicino alla sua ciotola quando è vuota da troppo tempo.
+Il cane abbaia vicino alla sua ciotola quando è vuota da troppo tempo.
+Il bambino bussa alla porta della cucina quando il piatto è vuoto da troppo tempo.
+La bambina chiede piano quando ha finito tutto quello che aveva nel piatto.
+Il gatto torna sempre a casa prima che faccia buio perché ha un po' paura del buio.
+Il cane resta fuori anche quando fa buio perché non ha paura di niente.
+Il bambino torna sempre a casa prima che faccia buio perché la bambina lo aspetta.
+La bambina aspetta sempre il bambino vicino alla porta prima che faccia buio.
+Il gatto mangia il pesce che il bambino ha comprato stamattina al mercato.
+Il cane mangia la carne che la bambina ha preso ieri sera al negozio.
+Il bambino mangia la pasta che la bambina ha cucinato questo pomeriggio.
+La bambina mangia il dolce che il bambino ha preparato stamattina per lei.
+Il gatto si avvicina piano al bambino che dorme e gli annusa i capelli senza svegliarlo.
+Il cane si avvicina piano alla bambina che dorme e le lecca piano la mano senza svegliarla.
+Il bambino si avvicina piano al gatto che dorme e lo accarezza piano senza svegliarlo.
+La bambina si avvicina piano al cane che dorme e lo copre con un telo senza svegliarlo.
+Il gatto non va mai dove il bambino non vuole che vada tranne quando pensa che lui non guardi.
+Il cane non va mai dove la bambina non vuole che vada tranne quando pensa che lei non guardi.
+Il bambino non fa mai quello che la bambina non vuole che faccia tranne quando lei non guarda.
+La bambina non fa mai quello che il bambino non vuole che faccia tranne quando lui non guarda.
+Il gatto guarda il bambino con gli occhi socchiusi quando è contento e soddisfatto.
+Il cane guarda la bambina con gli occhi spalancati quando è felice e contento.
+Il bambino guarda il gatto con gli occhi grandi quando questo fa qualcosa di strano.
+La bambina guarda il cane con gli occhi dolci quando questo le porta la palla.
+Il gatto sa sempre dove si trova il bambino anche quando non lo vede.
+Il cane sa sempre dove si trova la bambina anche quando non la sente.
+Il bambino sa sempre dove si trova il gatto anche quando questo si nasconde.
+La bambina sa sempre dove si trova il cane anche quando questo non abbaia.
+Il gatto non ha mai lasciato che il bambino dormisse da solo in quei tre anni.
+Il cane non ha mai lasciato che la bambina stesse sola in giardino di notte.
+Il bambino non ha mai lasciato che il gatto restasse senza mangiare neanche un giorno.
+La bambina non ha mai lasciato che il cane restasse senza giocare neanche un pomeriggio.
+Il gatto, il cane, il bambino e la bambina hanno costruito qualcosa di bello insieme.
+Non è facile spiegare cosa sia ma è lì ogni giorno e si vede in ogni piccola cosa.
+Il gatto lo sente quando dorme vicino al bambino e fa le fusa nel sonno.
+Il cane lo sente quando corre nel parco con la bambina e non si stanca mai.
+Il bambino lo sente quando il gatto gli si siede vicino dopo una brutta giornata.
+La bambina lo sente quando il cane le porta la palla anche quando lei non gliela ha chiesta.
+Alla fine è questo che conta e tutti e quattro lo sanno anche senza parlare.
+Il gatto si siede sul davanzale la sera e guarda le stelle finché non si addormenta lì.
+Il cane si siede in giardino la sera e guarda la luna finché qualcuno lo chiama dentro.
+Il bambino guarda le stelle dalla finestra ogni sera prima di andare a dormire.
+La bambina guarda la luna dal letto ogni sera prima di chiudere gli occhi.
+Il gatto ha i suoi orari e li rispetta sempre indipendentemente da quello che fanno gli altri.
+Il cane ha i suoi orari e li rispetta quasi sempre tranne quando il bambino lo distrae.
+Il bambino ha i suoi orari ma li rispetta solo quando la bambina gli ricorda cosa fare.
+La bambina ha i suoi orari e li rispetta sempre con grande precisione.
+Il gatto mangia il suo pesce preferito con un'espressione di pura soddisfazione.
+Il cane porta la sua palla preferita con un'espressione di pura gioia.
+Il bambino porta il suo zaino preferito con un'espressione di chi non vuole andare a scuola.
+La bambina porta il suo libro preferito con un'espressione di chi non vede l'ora di leggerlo.
+Il gatto non fa niente di sbagliato ma lo fa sempre nel momento più sbagliato.
+Il cane non fa niente di sbagliato ma lo fa sempre nel posto più sbagliato.
+Il bambino non fa niente di sbagliato ma lo fa sempre quando la bambina non è pronta.
+La bambina non fa niente di sbagliato ma lo fa sempre quando il bambino non se lo aspetta.
+Il gatto si alza, si stira, beve, mangia, dorme e poi ricomincia da capo.
+Il cane si alza, abbaia, corre, gioca, mangia, dorme e poi ricomincia da capo.
+Il bambino si alza, mangia, va a scuola, torna, gioca, mangia e dorme.
+La bambina si alza, legge, mangia, canta, legge ancora, mangia e dorme.
+Il gatto ha bisogno del bambino più di quanto il bambino pensi.
+Il cane ha bisogno della bambina più di quanto la bambina pensi.
+Il bambino ha bisogno del gatto più di quanto lui stesso ammetta.
+La bambina ha bisogno del cane più di quanto lei stessa dica.
+Il gatto è entrato in casa piccolo e silenzioso e ha preso tutto lo spazio.
+Il cane è entrato in giardino cucciolo e rumoroso e ha preso tutto il cuore.
+Il bambino è entrato nella vita della bambina da piccolo e non se ne è mai andato.
+La bambina è entrata nella vita del bambino da piccola e non se ne è mai andata.
+Il gatto resta e il cane resta e il bambino resta e la bambina resta e tutto va bene.
+Il gatto miagola piano, il cane abbaia forte, il bambino ride e la bambina canta.
+E la casa è piena di rumore e di vita e nessuno vuole che cambi qualcosa.
+Il gatto si addormenta sempre per primo e il bambino lo guarda e sorride.
+Il cane si addormenta quasi sempre per ultimo e la bambina lo veglia un poco.
+Il bambino si addormenta spesso mentre guarda il gatto dormire sul divano.
+La bambina si addormenta spesso mentre accarezza il cane vicino al letto.
+Il gatto sa quando è ora di dormire e si sistema senza che nessuno glielo dica.
+Il cane sa quando è ora di uscire e si siede vicino alla porta senza che nessuno glielo dica.
+Il bambino sa quando è ora di mangiare e va in cucina senza che nessuno glielo dica.
+La bambina sa quando è ora di leggere e prende il libro senza che nessuno glielo dica.
+Il gatto ha un carattere tutto suo e non lo cambia per nessuno.
+Il cane ha un carattere tutto suo e non lo cambia per nessuno.
+Il bambino ha un carattere tutto suo e la bambina lo ha imparato bene nel tempo.
+La bambina ha un carattere tutto suo e il bambino lo ha imparato bene nel tempo.
+Il gatto, il cane, il bambino e la bambina sono ognuno diverso dagli altri.
+Ognuno ha le sue abitudini, i suoi orari, i suoi posti preferiti e le sue cose preferite.
+Eppure ogni sera si ritrovano tutti nello stesso posto e stanno bene insieme.
+Il gatto sul divano, il cane sul tappeto, il bambino sulla sedia e la bambina sull'altro divano.
+E così finisce ogni giorno e così inizia quello dopo e nessuno si lamenta.
+Il gatto mangia il topo la mattina e dorme il pomeriggio e mangia il pesce la sera.
+Il cane abbaia la mattina e corre il pomeriggio e dorme la sera vicino alla porta.
+Il bambino studia la mattina e gioca il pomeriggio e dorme la sera nel suo letto.
+La bambina legge la mattina e canta il pomeriggio e dorme la sera con il libro vicino.
+Il gatto non ha bisogno di altro e il cane non ha bisogno di altro e loro lo sanno.
+Il bambino non ha bisogno di altro quando ha il cane e il gatto vicino.
+La bambina non ha bisogno di altro quando ha il libro e gli animali vicino.
+E tutti insieme non hanno bisogno di altro perché hanno già tutto quello che conta.
+Il gatto fa le fusa, il cane agita la coda, il bambino ride e la bambina sorride.
+E la casa è calda e piena di vita e tutti sono esattamente dove devono essere.
+Il gatto vuole il pesce, il cane vuole la palla, il bambino vuole giocare e la bambina vuole leggere.
+E ognuno ottiene quello che vuole alla fine della giornata perché si vogliono bene.
+Il gatto dorme, il cane dorme, il bambino dorme, la bambina dorme e la casa è silenziosa.
+Fino alla mattina dopo quando tutto ricomincia da capo con lo stesso ordine e la stessa gioia.
+Il gatto si stira ogni mattina nello stesso modo e il bambino lo imita per ridere.
+Il cane scuote la testa ogni mattina nello stesso modo e la bambina lo imita per ridere.
+Il bambino fa colazione ogni mattina nello stesso modo e il gatto lo osserva sempre.
+La bambina apre il libro ogni mattina nello stesso modo e il cane la osserva sempre.
+Il gatto non si sorprende di niente ormai dopo anni vissuti in quella casa.
+Il cane non si sorprende di niente ormai dopo anni vissuti in quel giardino.
+Il bambino non si sorprende di niente ormai dopo anni vissuti con quel gatto e quel cane.
+La bambina non si sorprende di niente ormai dopo anni vissuti con quel bambino.
+Il gatto ha insegnato al bambino la pazienza senza volerlo e senza saperlo.
+Il cane ha insegnato alla bambina la fedeltà senza volerlo e senza saperlo.
+Il bambino ha insegnato al gatto la fiducia senza volerlo e senza saperlo.
+La bambina ha insegnato al cane la calma senza volerlo e senza saperlo.
+Il gatto è piccolo ma occupa un grande spazio nel cuore del bambino.
+Il cane è grande ma occupa un posto ancora più grande nel cuore della bambina.
+Il bambino è piccolo ma ha un cuore grande abbastanza per il gatto e il cane insieme.
+La bambina è grande ma ha un cuore piccolo e selettivo che sceglie bene chi far entrare.
+Il gatto dorme, il bambino studia, il cane gioca e la bambina legge e tutto è al suo posto.
+E questo è tutto quello che serve per stare bene ogni giorno senza cercare altro.
+Il gatto porta il topo, il cane porta la palla, il bambino porta il disegno e la bambina porta il libro.
+Ognuno porta quello che ha e lo condivide con gli altri a modo suo.
+Il gatto fa le fusa piano, il cane abbaia forte, il bambino parla molto e la bambina parla poco.
+Ma tutti e quattro si capiscono benissimo anche quando non dicono niente.
+Il gatto ama il bambino, il cane ama la bambina, il bambino ama tutti e due gli animali.
+La bambina ama tutti e quattro nel suo modo tranquillo e silenzioso.
+Il gatto non lo dice ma lo mostra ogni volta che si siede vicino al bambino.
+Il cane non lo dice ma lo mostra ogni volta che corre verso la bambina.
+Il bambino non lo dice sempre ma lo mostra ogni volta che porta il pesce al gatto.
+La bambina non lo dice spesso ma lo mostra ogni volta che abbraccia il cane.
+E questa è la storia del gatto, del cane, del bambino e della bambina.
+Una storia semplice, senza troppi vocaboli, ma con molto da dire.
+Il gatto lo sa, il cane lo sa, il bambino lo sa e la bambina lo sa.
+E lo sanno anche tutti quelli che li guardano vivere insieme ogni giorno.
+Il gatto miagola piano, il cane abbaia una volta, il bambino ride e la bambina chiude il libro.
+Fine.
+Il gatto si sveglia e trova il bambino che lo guarda e sorride senza dire niente.
+Il cane si sveglia e trova la bambina che lo accarezza piano senza dire niente.
+Il bambino si sveglia e trova il gatto ai suoi piedi che fa già le fusa.
+La bambina si sveglia e trova il cane vicino alla porta che agita già la coda.
+Il gatto beve il latte e il bambino beve il latte e per una volta fanno la stessa cosa.
+Il cane mangia la carne e la bambina mangia la carne e per una volta mangiano la stessa cosa.
+Il bambino corre nel parco e il cane corre nel parco e per una volta vanno alla stessa velocità.
+La bambina legge sul divano e il gatto dorme sul divano e per una volta occupano lo stesso posto.
+Il gatto graffia il divano, il cane abbaia, il bambino ride, la bambina canta.
+E tutto ricomincia ancora una volta come sempre come ogni giorno.
+Il gatto è stanco, il cane è stanco, il bambino è stanco e la bambina è stanca.
+Ma nessuno vuole smettere prima che sia finita davvero la giornata.
+E poi finalmente si addormentano tutti insieme nello stesso momento quasi per caso.

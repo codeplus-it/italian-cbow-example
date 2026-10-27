@@ -1,0 +1,16 @@
+# File generati dal training: si ricreano lanciando gli script
+*.npy
+loss*.csv
+frasi_training.txt
+frasi_verifica.txt
+
+# Fogli di calcolo e file di blocco di LibreOffice/Excel
+*.xlsx
+.~lock*
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
